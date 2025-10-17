@@ -9,13 +9,16 @@ This setup assumes you already have Ollama running locally. OWUI setup may vary 
 To install dependencies, run `pip install -r requirements`.
 
 ## [QDRANT](https://qdrant.tech/documentation/quickstart/)
+```
 docker run -p 6333:6333 \
     --name qdrant_secured \
     -v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
     --env-file .env \
     qdrant/qdrant
+```
 
 ## [OWUI](https://docs.openwebui.com/getting-started/quick-start/)
+```
 docker run -d \
     -p 3000:8080 \
     --add-host=host.docker.internal:host-gateway \
@@ -24,10 +27,12 @@ docker run -d \
     --name open-webui \
     --restart unless-stopped \
     ghcr.io/open-webui/open-webui:main
+```
 
 **Note**: the .env file contains all environment variables I used in my local setup. I included the .env file for your convenience with default API keys. Please change the API key to something more secure!
 
 ## [OWUI Pipelines](https://docs.openwebui.com/features/pipelines/)
+```
 docker run -d \
     -p 9099:9099 \
     --add-host=host.docker.internal:host-gateway \
@@ -36,13 +41,14 @@ docker run -d \
     --name pipelines \
     --restart always \
     ghcr.io/open-webui/pipelines:main
+```
 
 **Note**: check out OWUI docs for more information on adding and connecting to pipelines. 
 
 # Connecting OWUI to custom RAG pipeline
 Assuming you have pipelines running as a Docker container, proceed with the following steps:
 
-1. Copy the GitHub Raw URL of the `rag_pipeline.py` file
+1. Copy the GitHub Raw URL of `rag_pipeline.py`
 2. Navigate to the "Pipelines" section in admin settings
 3. Paste the URL in the "Install from GitHub URL" section
 4. Select the download button and adjust the valves as needed. Don't forget to save!
