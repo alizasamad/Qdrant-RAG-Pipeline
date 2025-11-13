@@ -62,5 +62,22 @@ Notice that documents uploaded to Qdrant can be accessed by OWUI at any point. I
 
 You can also compare the responses returned by OWUI's default RAG vs. the custom RAG pipeline by having two or more models run simultaneously. 
 
+# Setting up RAGAS Experiments
+
+## Getting Started with [RAGAS](https://docs.ragas.io/en/stable/)
+1. Navigate to `RAGAS` working directory. Install all dependencies.
+2. Run [hello_world.py] (https://docs.ragas.io/en/stable/getstarted/experiments_quickstart/?h=experiment#prerequisites)
+    1. Note, the `datasets` folder contains a csv of your test dataset constructed during the program.
+    2. The `experiments` data set contains a csv file with the results.
+
+## OWUI RAGAS Benchmark
+1. Make sure you have a `.env` file in your `RAGAS` directory with OWUI_TOKEN and Qdrant TEST_COLLECTION set up. 
+2. Run `ragas_test.py` to measure `context_precision`, `context_recall`, `rouge_score`, and RAG pipeline latency.
+    1. Adjust the OWUI API url if not using default localhost at port 3000.
+    2. Note this version includes system prompt. Adjust or eliminate as desired.
+    3. Set your LLM. By default the script uses your local Ollama instance.
+    4. Adjust metrics as desired. Currently works with the metrics listed above.
+    5. Adjust dataset path and parameters. Note that the `name` parameter for the funtion `owui_rag_experiment.arun` indicates the results will be found at `/experiment/<name>.csv`.
+
 Any and all feedback is appreciated, thanks!
 

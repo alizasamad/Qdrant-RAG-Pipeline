@@ -1,2 +1,7 @@
 .venv
 qdrant_storage
+.env
+
+RAGAS/datasets/test_set.csv
+RAGAS/datasets/test_dataset.csv
+RAGAS/experiments/first_experiment.csv
