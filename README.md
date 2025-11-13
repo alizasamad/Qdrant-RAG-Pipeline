@@ -72,12 +72,13 @@ You can also compare the responses returned by OWUI's default RAG vs. the custom
 
 ## OWUI RAGAS Benchmark
 1. Make sure you have a `.env` file in your `RAGAS` directory with OWUI_TOKEN and Qdrant TEST_COLLECTION set up. 
-2. Run `ragas_test.py` to measure `context_precision`, `context_recall`, `rouge_score`, and RAG pipeline latency.
+2. Run `ragas_test.py` to measure `context_precision`, `context_recall`, `rouge_score`, `answer relevancy`, `faithfullness`, and RAG pipeline latency.
     1. Adjust the OWUI API url if not using default localhost at port 3000.
     2. Note this version includes system prompt. Adjust or eliminate as desired.
     3. Set your LLM. By default the script uses your local Ollama instance.
     4. Adjust metrics as desired. Currently works with the metrics listed above.
     5. Adjust dataset path and parameters. Note that the `name` parameter for the funtion `owui_rag_experiment.arun` indicates the results will be found at `/experiment/<name>.csv`.
+3. It is not unusal if the program takes long to run. This depends on how much data you are testing the RAG model against and which LLM you are using. 
 
 Any and all feedback is appreciated, thanks!
 
