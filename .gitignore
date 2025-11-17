@@ -1,6 +1,7 @@
 .venv
 qdrant_storage
 .env
+.DS_Store
 
 RAGAS/datasets/test_set.csv
 RAGAS/datasets/test_dataset.csv

@@ -81,25 +81,13 @@ async def owui_rag_experiment(row):
     relevancy = None
     faith = None
 
-    # Extract Reference texts
-    txt_contents = []
-    for filename in os.listdir("nq_txt_files"):
-        if filename.endswith(".txt"):
-            file_path = os.path.join("nq_txt_files", filename)
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                    txt_contents.append(content)
-            except Exception as e:
-                print(f"Error reading file {filename}: {e}")
-
     # Define metric sample
     sample = SingleTurnSample(
         user_input=row["question"],
         retrieved_contexts=[retrieved_string],
         response=response,
         reference = reference,
-        reference_contexts= txt_contents
+        reference_contexts= [row["reference_texts"]]
     )
 
     try:
@@ -117,14 +105,14 @@ async def owui_rag_experiment(row):
         return {
             **row,
             "response": response,
-            "retrieved_contexts": [retrieved_string],
             "rag_latency": rag_latency,
             "context_precision_score": precision,
             "context_recall_score": recall,
             "non_LLM_context_recall_score": nonLLMrecall,
             "rouge_score": result,
             "answer_relevancy_score": relevancy,
-            "answer_faithfulness_score": faith
+            "answer_faithfulness_score": faith,
+            "retrieved_contexts": [retrieved_string]
         }
     except Exception as e:
         print(f"Error processing row: {e}")
