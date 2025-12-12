@@ -1,0 +1,2280 @@
+,Unnamed: 0,question,question_compressed,reference_answer,source_sentence,source_raw,source_document,groundedness_score,groundedness_score_reasoning,relevancy_score,relevancy_score_reasoning
+13,13,What materials does OPM make available for public inspection?,OPM's public inspection materials?,"According to the context, OPM makes available for public inspection and copying: final opinions made in case adjudication, policy statements and interpretations not published in the Federal Register, and administrative staff manuals and instructions that affect the public, which are listed annually in the ""Handbook of Publications, Periodicals, and Issuances.""","Unless the material is published and offered for sale, OPM makes available for public inspection and copying: (i) Final opinions made by OPM in the adjudication of cases; (ii) OPM policy statements and interpretations adopted by OPM but not published in the FEDERAL REGISTER; and (iii) OPM administrative staff manuals and instructions that affect a member of the public.","FR 32043, June 8, 1993] 
+§ 294.105 Access to the requester’s own 
+records. 
+When the subject of a record, or a 
+duly authorized representative of the 
+subject, requests his or her own records 
+from a Privacy Act system of records, 
+as defined by 5 U.S.C. 552a (a)(5), and 
+the record is maintained so that it is 
+retrieved by the subject’s name or 
+other personal identifier, OPM will 
+process the request under the Privacy 
+Act procedures in part 297 of this chap-
+ter. 
+§ 294.106 Handbook of Publications, 
+Periodicals, and OPM Issuances. 
+(a)(1) Annually, OPM publishes OPM- 
+AG-PSD-01, ‘‘Handbook of Publica-
+tions, Periodicals, and Issuances,’’ and 
+accompanying addendum. This hand-
+book and addendum lists material pub-
+lished and offered for sale are available 
+for public inspection or copying. Unless 
+the material is published and offered 
+for sale, OPM makes available for pub-
+lic inspection and copying: 
+(i) Final opinions made by OPM in 
+the adjudication of cases; 
+(ii) OPM policy statements and inter-
+pretations adopted by OPM but not 
+published in the F
+EDERAL REGISTER; 
+and 
+(iii) OPM administrative staff manu-
+als and instructions that affect a mem-
+ber of the public. 
+(2) To the extent required to prevent 
+a clearly unwarranted invasion of per-
+sonal privacy, OPM may delete identi-
+fying details when it makes available 
+or publishes an opinion, statement of 
+policy, interpretation, or staff manual 
+or instruction.",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed information about the types of materials OPM makes available for public inspection, including final opinions, policy statements, interpretations, and administrative staff manuals that affect the public, with the caveat that identifying details may be deleted to prevent invasion of personal privacy.",4,"This question is quite useful for multiple stakeholders in the federal employment ecosystem. It directly relates to Title 5's transparency provisions and the role of the Office of Personnel Management (OPM) in public information disclosure. 
+
+The question has high relevance for:
+- HR specialists who need to understand public access to official records
+- Researchers studying federal employment policies
+- Potential federal job applicants wanting to understand what information is publicly accessible
+- Transparency and accountability advocates
+
+The practicality is strong because understanding what materials are publicly inspectable can help individuals and organizations better navigate federal employment information systems. It touches on important administrative transparency principles embedded in federal regulations.
+
+While the question is somewhat broad, it represents a genuine information need about OPM's public disclosure practices. The answer would likely provide insights into the types of documents, records, and materials that are made available for public review, which could be valuable for understanding federal employment processes and regulations.
+
+The applicability is broad, potentially helping multiple stakeholders understand their rights to access information and OPM's commitment to transparency. The only reason it doesn't receive a perfect 5 rating is that it's a somewhat general inquiry that might require a more specific follow-up to extract maximum practical value."
+68,68,What records must agencies maintain about employee sick leave?,Sick leave docs req'd by agencies?,"According to the context, agencies must maintain records of the amount of sick leave used by an employee for family care purposes and to attend a family member's funeral, with records sufficient to ensure the employee does not exceed the limitations specified in the regulations.","An agency must maintain records of the amount of sick leave used by an employee for family care purposes and to make arrangements for or attend the funeral of a family member under § 630.401(a)(3) and (4).
+The records must be sufficient to ensure that an employee does not exceed the limitations in § 630.401(b) and (c).","nual leave. 
+Subject to § 630.401(b) through (e), an 
+agency may grant sick leave to an em-
+ployee during a period of annual leave 
+for any of the purposes described in 
+§ 630.401(a). 
+[71 FR 47695, Aug. 17, 2006. Redesignated at 75 
+FR 75373, Dec. 3, 2010] 
+§ 630.407 Sick leave used in the com-
+putation of an annuity. 
+Sick leave used in the computation 
+of an annuity is charged against an em-
+ployee’s sick leave account and may 
+not thereafter be used, transferred, or 
+recredited. All sick leave to the credit 
+of an employee as of the date of his or 
+her retirement (or death) and reported 
+to OPM for credit towards the calcula-
+tion of an annuity is considered used. 
+[71 FR 47695, Aug. 17, 2006. Redesignated at 75 
+FR 75373, Dec. 3, 2010] 
+§ 630.408 Records on the use of sick 
+leave. 
+An agency must maintain records of 
+the amount of sick leave used by an 
+employee for family care purposes and 
+to make arrangements for or attend 
+the funeral of a family member under 
+§ 630.401(a)(3) and (4). The records must 
+be sufficient to ensure that an em-
+ployee does not exceed the limitations 
+in § 630.401(b) and (c). 
+[71 FR 47695, Aug. 17, 2006. Redesignated at 75 
+FR 75373, Dec. 3, 2010] 
+Subpart E—Recredit of Leave 
+§ 630.501 Annual leave recredit. 
+(a) When an employee transfers be-
+tween positions under subchapter I of 
+chapter 63 of title 5, United States 
+Code, the agency from which he trans-
+fers shall certify his annual leave ac-
+count to the employing agency for",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,3,"The context provides partial information about sick leave record-keeping, specifically that agencies must maintain records of sick leave used for family care and funeral purposes, with enough detail to track limitations on such leave usage, but does not provide a comprehensive overview of all sick leave record-keeping requirements.",5,"This question is highly useful for multiple stakeholders in federal employment. It directly addresses a critical recordkeeping requirement under Title 5, which is essential for HR specialists, managers, and employees alike. Maintaining accurate sick leave records is crucial for several reasons:
+
+1. Compliance: Agencies must track sick leave to ensure they're following federal regulations and employee entitlements.
+2. Employee Rights: It helps employees understand how their sick leave is documented and tracked.
+3. HR Management: Provides insight into the administrative requirements for managing employee leave.
+4. Accountability: Ensures proper documentation of employee absences and leave usage.
+
+The question touches on an important administrative aspect of federal employment that has practical implications for record-keeping, workforce management, and employee benefits. It would be particularly valuable for HR professionals, supervisors responsible for leave management, and employees seeking to understand how their sick leave is documented and maintained."
+22,22,When can an agency start a relocation incentive service agreement?,Conditions for agency's reloc incentive svc agrmnt?,"An agency can start a relocation incentive service agreement when the employee's performance rating is at least ""Fully Successful"" and not during an existing service agreement for a recruitment or previous relocation incentive, but can commence during a retention incentive service agreement with concurrent service periods.","An agency may not commence a relocation incentive service agreement during— (1) A period of employment established under any service agreement required for a recruitment incentive under 5 CFR part 575, subpart A, or (2) A period of employment established under any service agreement required for a relocation incentive previously authorized under this subpart.
+
+An agency may commence a relocation incentive service agreement during a period of employment established under a service agreement for a previously authorized retention incentive or for which an employee is receiving previously authorized retention incentive payments without a service agreement under 5 CFR part 575, subpart C.","service agreement. 
+(c) A relocation incentive may be 
+paid only when the employee’s rating 
+of record (or an official performance 
+appraisal or evaluation under a system 
+not covered by 5 U.S.C. chapter 43 or 5 
+CFR part 430) for the position held im-
+mediately before the move is at least 
+‘‘Fully Successful’’ or equivalent. 
+(d) An agency may not commence a 
+relocation incentive service agreement 
+during— 
+(1) A period of employment estab-
+lished under any service agreement re-
+quired for a recruitment incentive 
+under 5 CFR part 575, subpart A, or 
+(2) A period of employment estab-
+lished under any service agreement re-
+quired for a relocation incentive pre-
+viously authorized under this subpart. 
+(e) An agency may commence a relo-
+cation incentive service agreement 
+during a period of employment estab-
+lished under a service agreement for a 
+previously authorized retention incen-
+tive or for which an employee is receiv-
+ing previously authorized retention in-
+centive payments without a service 
+agreement under 5 CFR part 575, sub-
+part C. The service period under such a 
+relocation incentive service agreement 
+and the service period required by the 
+retention incentive service agreement, 
+if applicable, must be fulfilled concur-
+rently. 
+[70 FR 25743, May 13, 2005, as amended at 72 
+FR 67838, Dec. 3, 2007; 78 FR 49364, Aug. 14, 
+2013] 
+§ 575.206 Authorizing a relocation in-
+centive. 
+(a) Authority of authorized agency offi-
+cial. An authorized agency official re-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed conditions for when an agency can and cannot start a relocation incentive service agreement, including performance requirements and restrictions related to other existing service agreements, which covers most aspects of the question but may not exhaustively address every possible scenario.",4,"This question is highly relevant to federal employment policies and practices, specifically addressing relocation incentives which are an important aspect of talent management and workforce mobility within the federal government. The question targets a specific procedural detail that would be directly useful for:
+
+1. HR Specialists: They need to understand the precise conditions and timing for initiating relocation incentive service agreements.
+2. Managers: Those involved in recruiting or transferring employees across different locations would benefit from knowing when such incentives can be implemented.
+3. Federal Employees: Those considering or being offered relocation would want to understand the regulatory framework around such incentives.
+
+The question demonstrates a practical information need related to Title 5 regulations, specifically addressing the administrative procedures surrounding employee relocation and compensation. While not addressing the most complex policy issue, it represents a concrete, actionable inquiry that could help stakeholders navigate federal employment policies more effectively.
+
+The technical nature of the question suggests it comes from someone seeking precise regulatory guidance, which is valuable in the context of federal employment where clear procedural understanding is crucial. Its specificity and focus on a particular administrative process make it a useful query for those directly involved in federal human resources management."
+104,104,Which employees are excluded from this administrative regulation?,Excluded personnel per reg?,"Employees excluded from this administrative regulation are those in the Senior Executive Service and those whose appointment requires confirmation by the United States Senate, except for postmasters.","Employees in a position in the Senior Executive Service are excluded.
+Employees whose appointment is required by Congress to be confirmed by, or made with the advice and consent of, the United States Senate, except a postmaster, are excluded.","or judicial administrative body to be 
+covered hereunder. Coverage includes 
+administrative law judges except as 
+modified by part 930 of this chapter. 
+(b) Employees excluded. This part does 
+not apply to an employee: 
+(1) In a position in the Senior Execu-
+tive Service; or 
+(2) Whose appointment is required by 
+Congress to be confirmed by, or made 
+with the advice and consent of, the 
+United States Senate, except a post-
+master. 
+(c) Actions excluded. This part does 
+not apply to: 
+(1) The termination of a temporary 
+or term promotion or the return of an 
+employee to the position held before 
+the temporary or term promotion or to 
+one of equivalent grade and pay. 
+(2) A change to lower grade based on 
+the reclassification of an employee’s 
+position due to the application of new 
+classification standards or the correc-
+tion of a classification error. 
+(3) A change to lower grade based on 
+reclassification of an employee’s posi-
+tion due to erosion of duties, except 
+that this exclusion does not apply to 
+such reclassification actions that will 
+take effect after an agency has for-
+mally announced a reduction in force 
+in the employee’s competitive area and 
+when the reduction in force will take 
+effect within 180 days. This exception 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00277 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly and explicitly lists two specific categories of employees who are excluded from this administrative regulation: (1) employees in the Senior Executive Service, and (2) employees whose appointments require Senate confirmation (with the exception of postmasters).",3,"This question has moderate usefulness for stakeholders in federal employment. While the intent seems to seek clarification about administrative regulation exemptions, it lacks specificity about which particular regulation is being referenced. The question could be valuable for HR specialists and managers seeking to understand workforce policy exceptions, but its current vague phrasing limits its immediate practical application. To improve its utility, the question would benefit from more context about the specific administrative regulation in question. Nonetheless, understanding employee exclusions is often critical for ensuring proper policy implementation and compliance with federal employment guidelines."
+148,148,What types of special pay are listed for physicians and dentists?,Spec pay categories for med professionals?,"According to the context, special pay for physicians and dentists is listed as item (16) in the document.","(15) Physicians comparability allowances;
+(16) Special pay for physicians and dentists;","767 
+Office of Personnel Management § 581.103 
+(6) Standby duty pay, administra-
+tively uncontrollable overtime pay, 
+and availability pay; 
+(7) Environmental differentials; 
+(8) Hazardous duty pay; 
+(9) Tropical differentials; 
+(10) Recruitment incentives, re-
+cruitment and relocation bonuses and 
+retention allowances; 
+(11) Equalization allowance; 
+(12) Any payment in consideration 
+of accrued leave; 
+(13) Severance pay; 
+(14) Sick pay; 
+(15) Physicians comparability allow-
+ances; 
+(16) Special pay for physicians and 
+dentists; 
+(17) Amounts paid pursuant to a 
+personal services contract where the 
+contractor recipient performed the 
+services and received the payments in 
+the capacity as a Federal employee; 
+(18) Merit pay; 
+(19) Incentive pay; 
+(20) Cash awards, including perform-
+ance-based cash awards; 
+(21) Agency and Presidential incen-
+tive awards (except where such award 
+is for making a suggestion); 
+(22) Senior Executive Service rank 
+and performance awards; 
+(23) Moneys due for the services of a 
+deceased employee obligor, including: 
+(i) Overtime or premium pay; 
+(ii) Amounts due as refunds of pay 
+deductions for United States savings 
+bonds; 
+(iii) Payments for accumulated and 
+current accrued annual or vacation 
+leave as provided for in section 5581 of 
+title 5 of the United States Code; 
+(iv) Retroactive pay as provided for 
+in section 5344(b)(2) of title 5 of the 
+United States Code; and 
+(v) Amounts of checks drawn for 
+moneys due which were not delivered",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,2,"While the context mentions ""Special pay for physicians and dentists"" in item (16), it does not provide any specific details about the types of special pay, making it difficult to comprehensively answer the question.",4,"This question is highly relevant to Title 5 CFR, specifically addressing compensation provisions for specialized federal employees in medical professions. It demonstrates a practical information need for HR specialists, medical professionals working in federal agencies, and those involved in healthcare workforce management. The question seeks specific details about special pay classifications, which can impact recruitment, retention, and compensation strategies for physicians and dentists in government service. While not universally applicable to all federal employees, it is a targeted inquiry with significant value for those in medical roles within the federal system. The technical nature of the question suggests a genuine need to understand the nuanced compensation structures for these critical professional roles in government healthcare settings."
+27,27,"What's the contact number for VA Medical Center in Louisville, KY?",VA Med Ctr Louisville contact #?,"(502) 895-3401, ext. 5866","New Albany National Cemetery, Send to: Human Resources Management Officer, VA Medical Center, 800 Zorn Avenue, Louisville, KY 40206, (502) 895–3401, ext. 5866","792 
+5 CFR Ch. I (1–1–25 Edition) Pt. 581, App. B 
+Indianapolis Regional Office, Send to: VBA 
+Central Area Human Resources Manage-
+ment Office, Human Resources Manage-
+ment Director, 38701 Seven Mile Road, 
+Suite 345, Livonia, MI 48152, (313) 953–8830 
+New Albany National Cemetery, Send to: 
+Human Resources Management Officer, VA 
+Medical Center, 800 Zorn Avenue, Louis-
+ville, KY 40206, (502) 895–3401, ext. 5866 
+Evansville Outpatient Clinic Substation, 
+Send to: Human Resources Management 
+Officer, VA Medical Center, 2401 W. Main 
+Street, Marion, IL 62959, (618) 997–5311, ext. 
+4116 
+Indianapolis National Cemetery Area Office, 
+Send to: Human Resources Management 
+Officer, VA Medical Center, 1481 West 10th 
+Street, Indianapolis, IN 46202, (317) 267–8758 
+Iowa 
+Des Moines Regional Office, Send to: VBA 
+Central Area Human Resources Manage-
+ment Office, Human Resources Manage-
+ment Director, 38701 Seven Mile Road, 
+Suite 345, Livonia, MI 48152, (313) 953–8830 
+Keokuk National Cemetery, Send to: Human 
+Resources Management Officer, VA Med-
+ical Center, Highway 6 West, Iowa City, IA 
+52246, (319) 338–0581, ext. 7720 
+Human Resources Management Officer, 
+Knoxville Medical Center, 1515 W. Pleasant 
+Street, Knoxville, IA 50138, (515) 842–3101, 
+ext. 6219 
+Human Resources Management Officer, Des 
+Moines Medical Center, 3600 30th Street, 
+Des Moines, IA 50310, (515) 271–5812 
+Human Resources Management Officer, Iowa 
+City Medical Center, Highway 6 West, Iowa",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly provides the contact number (502) 895-3401, ext. 5866 for the VA Medical Center in Louisville, KY, which is associated with the New Albany National Cemetery, making it possible to fully and unambiguously answer the question.",1,"This question is not relevant to Title 5 of the Code of Federal Regulations, which covers Government Organization and Employees. The query is simply seeking contact information for a specific VA Medical Center location, which does not relate to federal employment policies, regulations, benefits, or procedures. While contact information can be useful, it does not provide insights into federal employment practices or Title 5 regulations. The question lacks substantive information about federal employment and would not help HR specialists, managers, employees, or retirees understand their rights, obligations, or workplace policies."
+9,9,To whom can records be disclosed for law enforcement activities?,Law enforcement records disclosable to whom?,"Records can be disclosed to another agency or instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity, if the activity is authorized by law and the head of the agency or instrumentality has made a written request specifying the particular portion desired and the law enforcement activity for which the record is sought.","(g) To another agency or instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality or his designated representative has made a written request to the Office or agency that maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought.","United States as a record that has suf-
+ficient historical or other value to war-
+rant its continued preservation by the 
+United States Government, or for eval-
+uation by the Archivist of the United 
+States or his or her designee to deter-
+mine whether the record has such 
+value. 
+(g) To another agency or instrumen-
+tality of any governmental jurisdiction 
+within or under the control of the 
+United States for a civil or criminal 
+law enforcement activity if the activ-
+ity is authorized by law, and if the 
+head of the agency or instrumentality 
+or his designated representative has 
+made a written request to the Office or 
+agency that maintains the record 
+specifying the particular portion de-
+sired and the law enforcement activity 
+for which the record is sought. 
+(h) To a person showing compelling 
+circumstances affecting the health and 
+safety of an individual, not necessarily 
+the individual to whom the record per-
+tains. Upon such disclosure, a notifica-
+tion should be sent to the last known 
+address of the subject individual. 
+(i) To the Congress or to a Congres-
+sional committee, subcommittee, or 
+joint committee to the extent that the 
+subject matter falls within its estab-
+lished jurisdiction. 
+(j) To the Comptroller General or any 
+authorized representatives of the 
+Comptroller General in the course of 
+the performance of the duties of the 
+General Accounting Office. 
+(k) Pursuant to the order of a court 
+of competent jurisdiction.",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed information in section (g) about disclosing records to another agency or instrumentality of a governmental jurisdiction within the United States for a civil or criminal law enforcement activity, specifically outlining the conditions such as the activity being authorized by law and requiring a written request specifying the particular portion of the record and the law enforcement activity.",4,"This question is highly relevant to Title 5 CFR, specifically addressing privacy and disclosure regulations for federal employee records. It touches on an important legal and administrative concern that is critical for HR specialists, legal departments, and federal agencies to understand. The question seeks clarity on the conditions and limitations of record disclosure for law enforcement purposes, which has significant implications for employee privacy rights, data protection, and inter-agency information sharing. While not a daily operational concern for all federal employees, it represents an important procedural and legal consideration that could impact individual rights and agency compliance. HR professionals and legal counsel would find this question particularly useful for understanding the boundaries of record disclosure and ensuring proper protocol is followed in sensitive situations involving law enforcement activities."
+97,97,Who determines the effective date of SES conversions?,Effective date of SES conversions determined by whom?,"According to the context, the Office of Personnel Management (OPM) determines the effective date of SES conversions, generally no later than six months following the effective date of the statutory action extending coverage.","Except as otherwise provided by law, the Office of Personnel Management shall determine the date on which conversions under this authority shall become effective.","Executive Service in a formerly ex-
+cluded agency following statutory ac-
+tion extending coverage under 5 U.S.C. 
+3132(a)(1) to that agency. Except as 
+otherwise provided by law, the Office of 
+Personnel Management shall deter-
+mine the date on which conversions 
+under this authority shall become ef-
+fective. Generally, this will be no later 
+than six months following the effective 
+date of the statutory action extending 
+coverage under 5 U.S.C. 3132(a)(1). 
+(4) The implementation of the SES in 
+a formerly excluded agency when OPM 
+determines that the agency is an ‘‘Ex-
+ecutive agency’’ under 5 U.S.C. 
+3132(a)(1). 
+(5) The exercise of a reemployment 
+right by an individual who at the time 
+of his/her former agency’s implementa-
+tion of the Senior Executive Service 
+was under a reemployment agreement 
+to a position in that agency which 
+meets the grade level and functional 
+criteria for inclusion under the Senior 
+Executive Service. The effective date 
+of a conversion under this authority is 
+prescribed by § 317.302(d)(5). 
+(b) Employees covered. This subpart 
+covers: 
+(1) An employee serving in a position 
+at the time it is designated a Senior 
+Executive Service position; 
+(2) An individual appointed or rein-
+stated to a position after it has been 
+designated a Senior Executive Service 
+position; 
+(3) An employee transferred, pro-
+moted, voluntarily reassigned or volun-
+tarily demoted to a position after it 
+has been designated a Senior Executive 
+Service position;",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context clearly states that the Office of Personnel Management (OPM) determines the effective date of SES conversions, generally no later than six months following the statutory action extending coverage, which provides substantial information to answer the question.",4,"This question is highly relevant to federal employment policies, specifically addressing the Senior Executive Service (SES) conversion process. It demonstrates a practical information need that would be important for HR specialists, managers involved in personnel transitions, and federal employees seeking career advancement or understanding administrative procedures. The question targets a specific technical aspect of federal employment regulations under Title 5, which requires precise knowledge of administrative processes. While the question is concisely phrased, it represents a substantive inquiry that could help stakeholders understand the procedural nuances of SES conversions. HR professionals would find this particularly useful for ensuring compliance and accurate implementation of personnel actions, while employees considering SES opportunities would benefit from understanding how conversion effective dates are determined. The technical nature of the question suggests it comes from someone with a serious professional interest in federal employment regulations."
+137,137,Which counties are in the Missouri Kansas City Survey Area?,MO/KS metro area counties?,"The Missouri Kansas City Survey Area includes the counties of Johnson, Leavenworth, and Wyandotte in Kansas, and Cass, Clay, Jackson, Platte, and Ray in Missouri.","Kansas:
+Johnson
+Leavenworth
+Wyandotte
+Missouri:
+Cass
+Clay
+Jackson
+Platte
+Ray","489 
+Office of Personnel Management Pt. 532, Subpt. B, App. C 
+MERIDIAN 
+Survey Area 
+Alabama: 
+Choctaw 
+Mississippi: 
+Forest 
+Lamar 
+Lauderdale 
+Area of Application. Survey area plus: 
+Alabama: 
+Sumter 
+Mississippi: 
+Clarke 
+Covington 
+Greene 
+Jasper 
+Jones 
+Kemper 
+Leake 
+Neshoba 
+Newton 
+Perry 
+Wayne 
+N
+ORTHERN MISSISSIPPI 
+Survey Area 
+Mississippi: 
+Clay 
+Grenada 
+Lee 
+Leflore 
+Lowndes 
+Monroe 
+Oktibbeha 
+Area of Application. Survey area plus: 
+Mississippi: 
+Alcorn 
+Bolivar 
+Calhoun 
+Carroll 
+Chickasaw 
+Choctaw 
+Coahoma 
+Itawamba 
+Lafayette (Does not include the Holly 
+Springs National Forest portion) 
+Montgomery 
+Noxubee 
+Pontotoc (Does not include the Holly 
+Spring National Forest portion) 
+Prentiss 
+Quitman 
+Sunflower 
+Tallahatchie 
+Tishomingo 
+Union (Does not include the Holly Springs 
+National Forest portion) 
+Washington 
+Webster 
+Winston 
+Yalobusha 
+M
+ISSOURI 
+KANSAS CITY 
+Survey Area 
+Kansas: 
+Johnson 
+Leavenworth 
+Wyandotte 
+Missouri: 
+Cass 
+Clay 
+Jackson 
+Platte 
+Ray 
+Area of Application. Survey area plus: 
+Kansas: 
+Allen 
+Anderson 
+Atchison 
+Bourbon 
+Doniphan 
+Douglas 
+Franklin 
+Linn 
+Miami 
+Missouri: 
+Adair 
+Andrew 
+Atchison 
+Bates 
+Buchanan 
+Caldwell 
+Carroll 
+Chariton 
+Clinton 
+Cooper 
+Daviess 
+De Kalb 
+Gentry 
+Grundy 
+Harrison 
+Henry 
+Holt 
+Howard 
+Johnson 
+Lafayette 
+Linn 
+Livingston 
+Macon 
+Mercer 
+Nodaway 
+Pettis 
+Putnam 
+Saline 
+Schuyler 
+Sullivan 
+Worth 
+S
+T. LOUIS 
+Survey Area 
+Illinois: 
+Clinton 
+Madison 
+Monroe",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides a precise and complete list of counties in the Missouri Kansas City Survey Area, specifically listing Johnson, Leavenworth, Wyandotte (Kansas), and Cass, Clay, Jackson, Platte, and Ray (Missouri), which directly and fully answers the question.",3,"This question has moderate utility for federal employment stakeholders, particularly those involved in federal pay and locality pay determinations. The Missouri Kansas City Survey Area is relevant to federal employee compensation calculations, as locality pay adjustments are based on geographic wage comparisons. HR specialists, compensation managers, and employees in the Kansas City metropolitan area might find this information useful for understanding pay scales and cost-of-living adjustments. However, the specificity of the question limits its broader applicability across the entire federal workforce. While important for precise pay calculations, it's not a universally critical piece of information for all federal employees or HR professionals."
+85,85,Which COLA areas did OPM establish in Alaska?,OPM's AK COLA zones?,"OPM established COLA areas for the City of Anchorage, City of Fairbanks, City of Juneau, and the rest of the State of Alaska.","(a) City of Anchorage, AK, and 80-kilometer (50-mile) radius by shortest route using paved roads when available, as measured from the Federal courthouse to the official duty station;
+(b) City of Fairbanks, AK, and 80-kilometer (50-mile) radius by shortest route using paved roads when available, as measured from the Federal courthouse to the official duty station;
+(c) City of Juneau, AK, and 80-kilometer (50-mile) radius by shortest route using paved roads when available, as measured from the Federal courthouse to the official duty station;
+(d) Rest of the State of Alaska;","§ 591.207 Which areas are COLA areas? 
+OPM has established the following 
+COLA areas: 
+(a) City of Anchorage, AK, and 80-kil-
+ometer (50-mile) radius by shortest 
+route using paved roads when avail-
+able, as measured from the Federal 
+courthouse to the official duty station; 
+(b) City of Fairbanks, AK, and 80-kil-
+ometer (50-mile) radius by shortest 
+route using paved roads when avail-
+able, as measured from the Federal 
+courthouse to the official duty station; 
+(c) City of Juneau, AK, and 80-kilo-
+meter (50-mile) radius by shortest 
+route using paved roads when avail-
+able, as measured from the Federal 
+courthouse to the official duty station; 
+(d) Rest of the State of Alaska; 
+(e) City and County of Honolulu, HI; 
+(f) County of Hawaii, HI; 
+(g) County of Kauai, HI; 
+(h) County of Maui (including 
+Kalawao County), HI; 
+(i) Commonwealth of Puerto Rico; 
+(j) Territory of Guam and Common-
+wealth of the Northern Mariana Is-
+lands; and 
+(k) U.S. Virgin Islands. 
+[67 FR 22340, May 3, 2002, as amended at 73 
+FR 65245, Nov. 3, 2008] 
+§ 591.208 How does OPM establish 
+COLA rates? 
+OPM establishes COLA rates based 
+on price differences between the COLA 
+area and the Washington, DC, area, 
+plus an adjustment factor. OPM ex-
+presses price differences as indexes. 
+(a) OPM computes price indexes for 
+various categories of consumer expend-
+itures. 
+(b) OPM combines the price indexes 
+using Consumer expenditure weights to 
+produce an overall price index for the 
+COLA area.",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly lists the three COLA areas in Alaska: the cities of Anchorage, Fairbanks, and Juneau, each with an 80-kilometer (50-mile) radius, as well as the ""Rest of the State of Alaska"", providing complete and precise information to fully answer the question.",4,"This question is quite specific and relevant to federal employees, particularly those working in Alaska. The query relates to Cost of Living Adjustments (COLA), which are critical compensation considerations for federal workers in high-cost or remote areas. HR specialists, payroll administrators, and federal employees in Alaska would find this information directly useful for understanding compensation structures. The question demonstrates a precise information need about OPM's (Office of Personnel Management) geographic compensation policies. While very targeted, it addresses a real and practical concern about how federal pay is adjusted based on location, which can significantly impact an employee's total compensation package. The technical nature of the question suggests it would be most valuable to HR professionals and federal employees with a detailed interest in compensation regulations under Title 5."
+87,87,Who can exempt employees from advanced scheduling requirements?,Who can waive staff sched. reqs.?,"The agency head (or designee) can exempt employees from advanced scheduling requirements in their sole and exclusive discretion, if they determine such an exemption is warranted.","The head of the agency (or designee), in his or her sole and exclusive discretion, may exempt such an employee or group of employees from the advanced scheduling requirement in § 630.308(a) for the remainder of the leave year if coverage under paragraphs (a) and (b) of this section terminates during that leave year and if the agency head (or designee) determines such exemption is warranted.","853 
+Office of Personnel Management § 630.310 
+(v) When an employee whose services 
+were determined to be essential during 
+the national emergency moves to a po-
+sition not involving services deter-
+mined by the agency to be essential to 
+the response to the national emer-
+gency. 
+(3) The agency head (or designee) 
+must inform both the affected employ-
+ees and the agency payroll provider in 
+writing of the termination date as de-
+termined in paragraph (f)(2) of this sec-
+tion. 
+(g) When the agency head (or des-
+ignee) fixes a termination date of the 
+exigency of the public business under 
+paragraph (f)(2) of this section, each af-
+fected employee must make a reason-
+able effort to comply with the sched-
+uling requirement in § 630.308(a). The 
+head of the agency (or designee), in his 
+or her sole and exclusive discretion, 
+may exempt such an employee or group 
+of employees from the advanced sched-
+uling requirement in § 630.308(a) for the 
+remainder of the leave year if coverage 
+under paragraphs (a) and (b) of this sec-
+tion terminates during that leave year 
+and if the agency head (or designee) de-
+termines such exemption is warranted. 
+The agency head (or designee) must no-
+tify any employee exempted from the 
+scheduling requirement in writing. 
+(h)(1) Upon termination of an exi-
+gency established under paragraphs (a) 
+and (b) of this section based on the end-
+ing of the exigency under paragraphs 
+(f)(2)(i), (ii), or (iv) of this section, an",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly states that the agency head (or designee) has ""sole and exclusive discretion"" to exempt employees from advanced scheduling requirements, providing a clear and unambiguous answer to the question.",4,"This question is highly relevant to federal employment policies and procedures, specifically addressing workforce management and scheduling regulations. It would be particularly useful for HR specialists, managers, and supervisors who need to understand the nuances of employee scheduling exemptions under Title 5. The question touches on an important operational aspect of federal employment that directly impacts workforce planning and employee work arrangements. It suggests a practical information need about the authority and parameters for modifying standard scheduling requirements, which could help prevent potential compliance issues or misunderstandings in federal workplace settings. While the question is somewhat broadly phrased, it demonstrates a clear intent to understand the specific parameters of scheduling exemption authority within federal employment regulations."
+149,149,What happens when an employee in an excepted position is converted to competitive service?,Conversion of excepted pos. to comp. service implications?,"When an employee in an excepted position is converted to competitive service, the agency may retain the incumbent and give them a status quo appointment, with the possibility of converting their appointment to career or career-conditional, or retaining them as a status quo employee if they do not qualify for conversion.","(b)(1) When an agency retains an employee under paragraph (a) of this section who was serving in an excepted position under an indefinite appointment or an appointment without time limit, the agency gives the employee a status quo appointment and may convert that employee's appointment to career or career-conditional under § 315.701 of this chapter.
+(2) When the agency decides not to effect conversion under § 315.701 of this chapter, or the employee fails to qualify for conversion, the agency, in its discretion, may retain the employee as a status quo employee.","has been brought into the competitive 
+service by statute, Executive order, or 
+the revocation of an exception under 
+Civil Service Rule VI (§ 6.6 of this chap-
+ter), or is otherwise made subject to 
+competitive examination, the agency 
+may retain the incumbent of the posi-
+tion. 
+(b)(1) When an agency retains an em-
+ployee under paragraph (a) of this sec-
+tion who was serving in an excepted po-
+sition under an indefinite appointment 
+or an appointment without time limit, 
+the agency gives the employee a status 
+quo appointment and may convert that 
+employee’s appointment to career or 
+career-conditional under § 315.701 of 
+this chapter. 
+(2) When the agency decides not to ef-
+fect conversion under § 315.701 of this 
+chapter, or the employee fails to qual-
+ify for conversion, the agency, in its 
+discretion, may retain the employee as 
+a status quo employee. 
+(c) An employee who was serving 
+under an excepted appointment limited 
+to 1 year or less may be retained as a 
+temporary employee under paragraph 
+(a) of this section until the scheduled 
+expiration date of the employee’s ex-
+cepted appointment. Extension of the 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00204 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed information about the conversion process for employees in excepted positions, including options for retention, status quo appointments, and potential conversion to career or career-conditional appointments, which covers most aspects of what happens when an employee moves from an excepted to a competitive service position.",4,"This question is highly relevant and practical for multiple stakeholders in federal employment. It addresses an important procedural aspect of federal employment transitions that impacts employees, HR specialists, and managers. The question explores the regulatory nuances of moving between different employment classifications within the federal government, which has significant implications for job status, rights, benefits, and career progression.
+
+For HR specialists, this question is crucial as it relates to understanding the technical processes of position conversions. For employees in excepted service positions, knowing the potential implications of conversion to competitive service is vital for career planning and understanding their employment rights and potential changes in job security, evaluation processes, and promotional opportunities.
+
+The question demonstrates a genuine need for substantive knowledge about federal employment policy transitions, specifically how regulatory frameworks govern movement between different service types. It has broad applicability across federal agencies and could help employees and HR professionals navigate complex personnel management scenarios.
+
+The only reason it doesn't receive a perfect 5 rating is that the specific details of such conversions can vary depending on agency-specific regulations and the particular circumstances of the position and employee. Nevertheless, it represents a valuable inquiry into an important aspect of federal employment policy under Title 5."
+40,40,How does an agency set pay when a GS employee changes positions?,Pay adj mechanism for GS pos change?,"When a GS employee changes positions without a change in grade, the agency determines the employee's payable rate of basic pay based on the new position of record, new official worksite, and the step in effect before the position change, with potential application of the maximum payable rate rule or pay retention rules if applicable.","For an employee who is moved laterally (by transfer, reassignment, change in type of appointment, change in official worksite, or other change in position) from one GS position to a different GS position without a change in grade or a break in service, the agency must determine the employee's payable rate of basic pay and any underlying rate(s)s of basic pay based on the employee's new position of record, new official worksite, and the step (or relative position in range for a GM employee) in effect before the position change.
+If an employee is eligible to receive a higher rate under the maximum payable rate rule in § 531.221, the agency may choose to apply that rule.
+If an employee is entitled to pay retention, the agency must apply the rules in 5 CFR part 536.","section of OPM regulations, and agency 
+policies. 
+[70 FR 31291, May 31, 2005, as amended at 73 
+FR 66152, Nov. 7, 2008; 77 FR 28222, May 11, 
+2012; 78 FR 49362, Aug. 14, 2013; 89 FR 5754, 
+Jan. 30, 2024] 
+§ 531.213 Setting pay upon change in 
+position without a change in grade. 
+For an employee who is moved lat-
+erally (by transfer, reassignment, 
+change in type of appointment, change 
+in official worksite, or other change in 
+position) from one GS position to a dif-
+ferent GS position without a change in 
+grade or a break in service, the agency 
+must determine the employee’s pay-
+able rate of basic pay and any under-
+lying rate(s)s of basic pay based on the 
+employee’s new position of record, new 
+official worksite, and the step (or rel-
+ative position in range for a GM em-
+ployee) in effect before the position 
+change. If an employee is eligible to re-
+ceive a higher rate under the maximum 
+payable rate rule in § 531.221, the agen-
+cy may choose to apply that rule. If an 
+employee is entitled to pay retention, 
+the agency must apply the rules in 5 
+CFR part 536. 
+[70 FR 31291, May 31, 2005, as amended at 73 
+FR 66152, Nov. 7, 2008] 
+§ 531.214 Setting pay upon promotion. 
+(a) General. An agency must set an 
+employee’s payable rate of basic pay 
+upon promotion following the rules in 
+this section, consistent with 5 U.S.C. 
+5334(b). The promotion rule in 5 U.S.C. 
+5334(b) and the implementing rules in 
+this section apply only to a GS em-
+ployee who is promoted from one GS",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides substantial information about setting pay for GS employees when changing positions, specifically detailing procedures for lateral moves without grade changes (§ 531.213) and promotions (§ 531.214), though the excerpt appears to be cut off mid-section which prevents a completely comprehensive answer.",5,"This is an excellent, highly practical question that directly addresses a critical aspect of federal employment compensation under Title 5. Pay setting when an employee changes positions is a complex process that impacts both individual employees and agency HR management. The question is relevant to multiple stakeholders:
+
+1. For HR Specialists: It addresses a core technical requirement of position management and compensation administration.
+2. For Managers: Understanding pay-setting rules is crucial when making hiring, promotion, or transfer decisions.
+3. For Federal Employees: The answer directly affects an individual's potential earnings and career progression.
+
+The question touches on key Title 5 regulations concerning pay administration, including:
+- Pay retention rules
+- Determining appropriate step and grade placement
+- Handling promotions, demotions, and lateral transfers
+- Applying pay-setting guidelines across different scenarios
+
+This type of question demonstrates a genuine need for substantive knowledge about federal pay policies, with clear practical implications for workforce management. It requires understanding nuanced regulatory guidance about compensation adjustments, making it a highly valuable inquiry for anyone involved in federal employment."
+34,34,What is the purpose of the Information Technology Exchange Program?,Purpose of IT Exchange Program?,"The purpose of the Information Technology Exchange Program is to temporarily detail information technology employees between the Federal Government and private sector organizations, with the goal of improving the Federal workforce's competency in using information technology to deliver government information and services.","(a) The purpose of this part is to implement sections 209(b)(6) and (c) of the E-Government Act of 2002 (Pub. L. 107–347), which authorize the Office of Personnel Management to establish an Information Technology Exchange Program.
+This statute authorizes the temporary detail of information technology employees between the Federal Government and private sector organizations.
+The statute also gives Federal agencies the authority to accept private sector information technology employees detailed under the Information Technology Exchange Program.
+(b) Agency heads, or their designees, may approve details as a mechanism for improving the Federal workforce's competency in using information technology to deliver Government information and services.","339 
+Office of Personnel Management § 370.102 
+position to which the PMF would have 
+been converted at the losing agency. 
+[77 FR 28215, May 11, 2012, as amended at 89 
+FR 25775, Apr. 12, 2024] 
+PART 370—INFORMATION TECH-
+NOLOGY EXCHANGE PRO-
+GRAM 
+Sec. 
+370.101 Purpose. 
+370.102 Definitions. 
+370.103 Eligibility. 
+370.104 Length of details. 
+370.105 Written agreements. 
+370.106 Terms and conditions. 
+370.107 Details to small business concerns. 
+370.108 Reporting requirements. 
+370.109 Agency plans. 
+A
+UTHORITY: Pub. L. 107–347, 116 Stat. 2923– 
+2931 (5 U.S.C. 3707). 
+SOURCE: 70 FR 47714, Aug. 15, 2005, unless 
+otherwise noted. 
+§ 370.101 Purpose. 
+(a) The purpose of this part is to im-
+plement sections 209(b)(6) and (c) of the 
+E-Government Act of 2002 (Pub. L. 107– 
+347), which authorize the Office of Per-
+sonnel Management to establish an In-
+formation Technology Exchange Pro-
+gram. This statute authorizes the tem-
+porary detail of information tech-
+nology employees between the Federal 
+Government and private sector organi-
+zations. The statute also gives Federal 
+agencies the authority to accept pri-
+vate sector information technology 
+employees detailed under the Informa-
+tion Technology Exchange Program. 
+(b) Agency heads, or their designees, 
+may approve details as a mechanism 
+for improving the Federal workforce’s 
+competency in using information tech-
+nology to deliver Government informa-
+tion and services. Details under this 
+part allow Federal employees to serve",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides a direct and comprehensive explanation of the purpose of the Information Technology Exchange Program in § 370.101, which clearly outlines that the program authorizes temporary details of IT employees between the federal government and private sector organizations to improve workforce competency in using information technology.",4,"This question is quite relevant to Title 5 regulations, specifically addressing a specialized federal employment program. The Information Technology Exchange Program is an important mechanism for knowledge transfer and skill development between federal agencies and the private sector. It would be particularly useful for:
+
+1. HR specialists involved in workforce development and talent management
+2. IT professionals in federal agencies considering career development opportunities
+3. Managers seeking to understand cross-sector talent exchange mechanisms
+4. Federal employees interested in professional growth and temporary assignments
+
+The question demonstrates a genuine need for understanding a specific government employment initiative. While not a universally applicable topic, it represents a nuanced aspect of federal employment policy that could be valuable for those in technology and government sectors. The technical nature of the question suggests a serious information need rather than casual curiosity.
+
+The practicality is high for those directly involved in federal IT workforce strategies, though more limited for general federal employees. Its specificity and focus on a structured exchange program make it a targeted but meaningful inquiry into Title 5 employment provisions."
+86,86,Can a non-citizen be appointed under a Pathways Program?,Pathways Program eligibility for non-citizens?,"Yes, a non-citizen can be appointed under a Pathways Program, provided they are lawfully admitted to the United States as a permanent resident or otherwise authorized to be employed, and the agency is authorized to pay aliens under the applicable appropriations acts.","An agency may appoint a non-citizen provided that:
+(i) The Pathways Participant is lawfully admitted to the United States as a permanent resident or is otherwise authorized to be employed; and
+(ii) The agency is authorized to pay aliens under the annual Appropriations Act ban and any agency-specific enabling and appropriation statutes.
+A Pathways Participant must be a United States citizen to be eligible for noncompetitive conversion to the competitive service.","326 
+5 CFR Ch. I (1–1–25 Edition) § 362.106 
+(2) Agencies must follow the proce-
+dures of part 302 of this chapter when 
+filling a position under a Pathways 
+Program. 
+(3) Appointments are subject to all 
+the requirements and conditions gov-
+erning term, career, or career-condi-
+tional employment, including inves-
+tigation to establish an appointee’s 
+qualifications and suitability. 
+(d) Eligibility. Except as set forth in 
+this section, eligibility requirements 
+for appointment under a Pathways 
+Program are specified in each Path-
+ways Program. 
+(e) Citizenship. (1) An agency may ap-
+point a non-citizen provided that: 
+(i) The Pathways Participant is law-
+fully admitted to the United States as 
+a permanent resident or is otherwise 
+authorized to be employed; and 
+(ii) The agency is authorized to pay 
+aliens under the annual Appropriations 
+Act ban and any agency-specific ena-
+bling and appropriation statutes. 
+(2) A Pathways Participant must be a 
+United States citizen to be eligible for 
+noncompetitive conversion to the com-
+petitive service. 
+(f) Employment of relatives. In accord-
+ance with part 310 of this chapter, a 
+Pathways Participant may work in the 
+same agency with a relative when 
+there is no direct reporting relation-
+ship and the relative is not in a posi-
+tion to influence or control the Partici-
+pant’s appointment, employment, pro-
+motion or advancement within the 
+agency. 
+(g) Length of Appointments. Except as 
+provided in subpart B, Recent Graduate",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides clear and specific details about non-citizen appointments under the Pathways Program, indicating that a non-citizen can be appointed if they are lawfully admitted to the United States as a permanent resident or otherwise authorized to be employed, and the agency is authorized to pay aliens, though they cannot be noncompetitively converted to the competitive service.",4,"This question is highly relevant and practical for multiple stakeholders in federal employment. It addresses a specific policy concern related to hiring non-citizens through the Pathways Program, which is crucial for HR specialists, hiring managers, and potential job applicants. The question touches on important immigration and employment eligibility issues that are directly relevant to Title 5 regulations governing federal employment. 
+
+The query is particularly useful because:
+1. It addresses a nuanced aspect of federal hiring policies
+2. Provides clarity on citizenship requirements for federal employment programs
+3. Helps potential applicants understand their eligibility
+4. Assists HR professionals in understanding recruitment guidelines
+5. Relates to diversity and inclusion in federal workforce recruitment
+
+While the question is straightforward, it addresses a complex area of federal employment law that is not always clearly understood by job seekers or even some HR professionals. Understanding the specific rules around non-citizen appointments in Pathways Programs can be critical for both employers and potential employees navigating federal hiring processes."
+140,140,What happens to an employee's tenure when transferring between agencies?,Impact of inter-agency transfer on emp. service continuity?,"When an employee transfers between agencies, they generally retain their current tenure status - a career employee remains a career employee, and a career-conditional employee remains a career-conditional employee.","Except as provided in paragraph (b) of this section, a career employee who transfers remains a career employee and a career-conditional employee who transfers remains a career-conditional employee.","167 
+Office of Personnel Management § 315.601 
+States of the United States, the Dis-
+trict of Columbia, Guam, Puerto Rico, 
+and the Virgin Islands. 
+[33 FR 12418, Sept. 4, 1968, as amended at 59 
+FR 68107, Dec. 30, 1994; 60 FR 53504, Oct. 16, 
+1995] 
+§ 315.402 Tenure on reinstatement. 
+(a) Except as provided in paragraph 
+(b) of this section, a person who is rein-
+stated becomes a career-conditional 
+employee. 
+(b) A person who is reinstated be-
+comes a career employee when he has 
+completed the service requirement for 
+career tenure or is excepted from it by 
+§ 315.201(c). 
+§ 315.403 Acquisition of competitive 
+status. 
+A person who was serving probation 
+when he was separated and who is rein-
+stated under § 315.401 acquires a com-
+petitive status automatically on com-
+pletion of probation. 
+Subpart E—Career or Career-Con-
+ditional Employment by Trans-
+fer 
+§ 315.501 Transfer. 
+Subject to part 335 of this chapter, an 
+agency may appoint by transfer to a 
+competitive service position, without a 
+break in service of a single workday, a 
+current career or career-conditional 
+employee of another agency. 
+[60 FR 53504, Oct. 16, 1995] 
+§ 315.502 Tenure on transfer. 
+(a) General rule. Except as provided in 
+paragraph (b) of this section, a career 
+employee who transfers remains a ca-
+reer employee and a career-conditional 
+employee who transfers remains a ca-
+reer-conditional employee. 
+(b) Exceptions. (1) A career-condi-
+tional employee who transfers to a po-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides clear and detailed information about employee tenure during transfers, specifically stating that career employees remain career employees and career-conditional employees remain career-conditional employees when transferring between agencies, with only minor potential exceptions not fully elaborated in the given text.",4,"This question is highly relevant and practical for federal employees and HR specialists. It addresses a common scenario of inter-agency transfers and touches on an important aspect of federal employment mobility. Understanding how tenure is preserved or affected during agency transfers is crucial for career planning, job security, and understanding employment rights under Title 5 regulations. 
+
+The question is particularly useful because:
+1. It addresses a real procedural concern for federal workers considering or undergoing agency transfers
+2. It relates directly to employment status and job continuity, which are critical considerations for federal employees
+3. HR professionals frequently need to provide guidance on such administrative details
+4. The information would help employees make informed decisions about career moves within the federal government
+5. It suggests potential implications for job protections, seniority, and career progression
+
+While the question is somewhat broad and would require a nuanced explanation of different transfer scenarios, it represents a genuine information need that could impact multiple stakeholders in federal employment. The practical value and direct relevance to Title 5 employment regulations make this a valuable inquiry."
+62,62,What are the key purposes of performance appraisal in an organization?,Org perf eval: core objectives?,"The key purposes of performance appraisal in an organization are to identify individual and team accountability for organizational goals, address developmental needs, assess and improve performance, recognize and reward accomplishments, and use results as a basis for appropriate personnel actions.","(2) Identify individual and, where applicable, team accountability for accomplishing organizational goals;
+(3) Identify and address developmental needs for individuals and, where applicable, teams;
+(4) Assess and improve individual, team, and organizational performance;
+(5) Use appropriate measures of performance as the basis for recognizing and rewarding accomplishments; and
+(6) Use the results of performance appraisal as a basis for appropriate personnel actions.","(2) Identify individual and, where ap-
+plicable, team accountability for ac-
+complishing organizational goals; 
+(3) Identify and address develop-
+mental needs for individuals and, 
+where applicable, teams; 
+(4) Assess and improve individual, 
+team, and organizational performance; 
+(5) Use appropriate measures of per-
+formance as the basis for recognizing 
+and rewarding accomplishments; and 
+(6) Use the results of performance ap-
+praisal as a basis for appropriate per-
+sonnel actions. 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00366 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides a comprehensive list of key purposes for performance appraisal, including identifying individual and team accountability, addressing developmental needs, assessing and improving performance, using performance measures for recognition and rewards, and using appraisal results for personnel actions, which covers most aspects of the question.",4,"This question is highly relevant to Title 5 CFR, specifically addressing performance management, which is a critical aspect of federal employment regulations. While the question is broadly phrased and not specifically focused on federal employment, performance appraisal is a key component of federal workforce management. 
+
+The question has strong practical value for:
+- HR specialists who design and implement performance evaluation systems
+- Managers responsible for conducting employee performance reviews
+- Federal employees seeking to understand the objectives of performance assessments
+- Organizations aiming to improve workforce effectiveness and accountability
+
+The broad nature of the question allows for a comprehensive exploration of performance appraisal purposes, which could include:
+- Setting and communicating performance expectations
+- Providing feedback and professional development opportunities
+- Making personnel decisions about promotions, rewards, and potential improvements
+- Aligning individual performance with organizational goals
+- Ensuring accountability and maintaining performance standards
+
+While the question is not exclusively focused on federal employment, it has significant relevance to Title 5 regulations and performance management practices in government organizations. The information derived from answering this question would be valuable for understanding and implementing effective performance evaluation strategies in federal workplaces."
+41,41,What is the VerDate mentioned in the document?,VerDate's significance in doc?,"The VerDate mentioned in the document is Sep<11>2014 14:38 May 14, 2025, which appears to be a date reference in a document formatting context.","VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00348 Fmt 8010 Sfmt 8010 Y:\\SGML\\265008.XXX 265008medwards on DSK11XQN23PROD with CFR","must have a full performance level 
+that is equivalent to or less than the 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00348 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,2,"The context provides minimal information about VerDate, only showing it as part of a document header with a date, but does not explain what VerDate actually is or its specific purpose.",1,"This question has very low usefulness for stakeholders interested in Title 5 regulations. ""VerDate"" appears to be a technical document formatting term related to publication dates or version tracking, rather than a substantive policy or employment-related concept. The question does not seek meaningful information about federal employment policies, procedures, benefits, rights, or regulations. It seems more like a procedural or administrative metadata query with no practical value for HR specialists, managers, federal employees, or retirees. While technical document details can be important, this specific question lacks clear relevance to the core content and purpose of Title 5 regulations."
+0,0,What's the contact number for U.S. Marshals Service HR Division?,Contact # for USMS HR?,(703) 740-1714,"U.S. Marshals Service Human Resources Division, Office of Compensation, Benefits, and Processing, CG3 4th Floor, Room 4030, Arlington, VA 22202, (703) 740–1714.","M&P Office of Human Resources, 150 M 
+Street, Suite 11.000, Washington, DC 20530, 
+(202) 616–4522. 
+Tax Division 
+150 M Street NE, Suite 1.1330, Washington, 
+DC 20530, (202) 616–1762. 
+U.S. Marshals Service 
+Human Resources Division, Office of Com-
+pensation, Benefits, and Processing, CG3 4th 
+Floor, Room 4030, Arlington, VA 22202, (703) 
+740–1714. 
+Department of Labor 
+1. Payments to employees of the Department 
+of Labor: Division Director, Office of Com-
+pensation and Processing, Department of 
+Labor, 200 Constitution Avenue NW, N–4654, 
+Washington, DC 20210, (202) 693–6856. 
+2. Process relating to those exceptional cases 
+where there is money due and payable by the 
+United States under the Longshoreman’s Act 
+should be directed to the: Associate Director 
+for Longshore and Harbor Worker’s Com-
+pensation, Department of Labor, 200 Con-
+stitution Avenue NW, C–3516, Washington, 
+DC 20210, (202) 219–8721. 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00790 Fmt 8010 Sfmt 8002 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly provides the contact number (703) 740-1714 for the U.S. Marshals Service Human Resources Division, Office of Compensation, Benefits, and Processing, making it possible to fully and unambiguously answer the question.",2,"While this question relates to federal employment, it is very narrow in scope and does not provide substantive information about Title 5 regulations or federal employment policies. The question is essentially a contact lookup request, which:
+
+1. Relevance: Only marginally relates to federal employment (just seeking a contact number)
+2. Practicality: Limited practical value beyond obtaining basic contact information
+3. Communication Style: Casual and direct, but lacks depth
+4. Information Need: Does not seek meaningful policy or regulatory information
+5. Applicability: Minimal applicability for broader understanding of federal employment regulations
+
+The question might be useful for someone specifically needing to reach U.S. Marshals Service HR, but it does not contribute to understanding Title 5 regulations, employee rights, procedures, or systemic employment policies. A more valuable question would explore specific HR processes, employee rights, or regulatory guidelines related to federal employment."
+111,111,What agencies jointly issued Federal Claims Collection Standards on Administrative Offset?,Which fed. agencies collab'd on Claims Collection Standards re: Admin. Offset?,The Department of Justice and the General Accounting Office jointly issued the Federal Claims Collection Standards on Administrative Offset.,These regulations are consistent with the Federal Claims Collection Standards on Administrative Offset issued jointly by the Department of Justice and the General Accounting Office as set forth in 4 CFR 102.3.,"may be appropriate. 
+Subpart C—Administrative Offset 
+SOURCE: 59 FR 35214, July 11, 1994, unless 
+otherwise noted. 
+§ 179.301 Scope of regulations. 
+These regulations apply to the collec-
+tion of debts owed to the United States 
+arising from transactions with OPM 
+other than those involving payments 
+made from the Civil Service Retire-
+ment and Disability Fund (the Fund), 
+or where a request for an offset from 
+OPM’s administrative accounts—other 
+than the Fund—is received by OPM 
+from another Federal agency. Regula-
+tions for other agencies to request 
+OPM’s Retirement and Insurance 
+Group to recover a debt from the Fund 
+are provided at subpart R of part 831 
+and subpart D of part 845 of title 5, 
+Code of Federal Regulations. These 
+regulations are consistent with the 
+Federal Claims Collection Standards 
+on Administrative Offset issued jointly 
+by the Department of Justice and the 
+General Accounting Office as set forth 
+in 4 CFR 102.3. 
+§ 179.302 Definitions. 
+Administrative offset, as defined in 31 
+U.S.C. 3701(a)(1), means withholding 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00049 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context directly states that the Federal Claims Collection Standards on Administrative Offset were jointly issued by the Department of Justice and the General Accounting Office, providing clear and specific information to answer most of the question.",3,"This question has moderate usefulness for federal employment and administrative professionals. While it relates to a specific regulatory detail within government operations, its practical application is somewhat narrow. The question touches on administrative procedures involving claims collection and offset, which could be relevant to HR specialists, financial administrators, and legal professionals dealing with federal debt collection processes. However, the specificity of the query limits its broader applicability. It represents a technical, procedural detail that might be important for compliance and administrative research, but may not have immediate, widespread relevance for most federal employees or managers. The information could be valuable for those specifically working in administrative law, financial recovery, or regulatory compliance roles, but would have limited direct impact for the average federal worker."
+147,147,How long can nonpay time be credited during a probationary period?,Max nonpay time creditable during prob period?,"According to the context, nonpay time can be credited up to a total of 22 workdays during a probationary period, with nonpay time in excess of 22 workdays extending the probationary period by an equal amount.","Absence in nonpay status while on the rolls (other than for compensable injury or military duty) is creditable up to a total of 22 workdays.
+Nonpay time in excess of 22 workdays extends the probationary period by an equal amount.","by § 315.801 is 1 year and may not be ex-
+tended. 
+(b) Prior Federal civilian service (in-
+cluding nonappropriated fund service) 
+counts toward completion of probation 
+when the prior service: 
+(1) Is in the same agency, e.g., De-
+partment of the Army; 
+(2) Is in the same line of work (deter-
+mined by the employee’s actual duties 
+and responsibilities); and 
+(3) Contains or is followed by no more 
+than a single break in service that does 
+not exceed 30 calendar days. 
+(c) Periods of absence while in a pay 
+status count toward completion of pro-
+bation. Absence in nonpay status while 
+on the rolls (other than for compen-
+sable injury or military duty) is cred-
+itable up to a total of 22 workdays. Ab-
+sence (whether on or off the rolls) due 
+to compensable injury or military duty 
+is creditable in full upon restoration to 
+Federal service. Nonpay time in excess 
+of 22 workdays extends the proba-
+tionary period by an equal amount. An 
+employee serving probation who leaves 
+Federal service to become a volunteer 
+with the Peace Corps or the Corpora-
+tion for National and Community Serv-
+ice serves the remainder of the proba-
+tionary period upon reinstatement pro-
+vided the employee is reinstated within 
+90 days of termination of service as a 
+volunteer or training for such service. 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00195 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed information about nonpay time during a probationary period, specifically stating that absence in nonpay status is creditable up to 22 workdays, with nonpay time beyond that extending the probationary period by an equal amount, making it possible to answer the question with high specificity.",4,"This question is highly relevant to federal employment policies and procedures, specifically addressing a nuanced aspect of probationary periods that would be of significant interest to HR specialists, new federal employees, and managers involved in employee onboarding and performance evaluation. The query touches on an important technical detail of employment status and time crediting that directly impacts an employee's probationary period progression. It demonstrates a sophisticated understanding of federal employment regulations and seeks clarification on a specific procedural point that could have meaningful implications for an employee's job status and career progression. HR professionals would find this particularly useful for ensuring accurate tracking of employee time and compliance with Title 5 regulations. The question is practical, specific, and addresses a concrete administrative concern that is not immediately obvious to those unfamiliar with federal employment intricacies."
+96,96,What conditions must be met to exercise federal reemployment rights?,Fed. reemployment rights: what's req'd?,"To exercise federal reemployment rights, an individual must apply in writing to their former employing agency within 30 calendar days after: (1) receiving notice of involuntary separation from tribal employment, (2) the function reverting to Federal operation, or (3) separation with joint consent of the tribal organization and Federal agency for personal hardship or special circumstances.","Reemployment rights may be exercised only under the following conditions. The individual must apply in writing to the former employing agency for reemployment not later than 30 calendar days after:
+(1) Receipt of notice of involuntary separation from tribal employment. For this purpose, involuntary separation means any separation against the will and without consent of the individual.
+(2) Reversion of the function to Federal operation, whether reversion is through tribal or Federal action; or
+(3) Separation with the joint consent of the tribal organization and the Federal agency for reasons of personal hardship or other special circumstances.","298 
+5 CFR Ch. I (1–1–25 Edition) § 352.704 
+§ 352.704 Duration of reemployment 
+rights. 
+(a) Termination of authority. Rights 
+are not granted to persons who leave 
+Federal employment for employment 
+with a tribal organization after the 
+date (December 31, 1985, at present) 
+specified in section 105(e) of the Indian 
+Self-Determination Act (88 Stat. 2209). 
+(b) Maximum period of entitlement. En-
+titlement to reemployment terminates 
+at the end of 6 years following the date 
+employment commences in the tribal 
+organization unless exercised or other-
+wise terminated before that time as 
+provided in this subpart. 
+§ 352.705 Return to Federal employ-
+ment. 
+(a) Conditions. Reemployment rights 
+may be exercised only under the fol-
+lowing conditions. The individual must 
+apply in writing to the former employ-
+ing agency for reemployment not later 
+than 30 calendar days after: 
+(1) Receipt of notice of involuntary 
+separation from tribal employment. 
+For this purpose, involuntary separa-
+tion means any separation against the 
+will and without consent of the indi-
+vidual. 
+(2) Reversion of the function to Fed-
+eral operation, whether reversion is 
+through tribal or Federal action; or 
+(3) Separation with the joint consent 
+of the tribal organization and the Fed-
+eral agency for reasons of personal 
+hardship or other special cir-
+cumstances. 
+(b) Termination. A former employee’s 
+entitlement to reemployment termi-
+nates for: 
+(1) Failure to apply for reemploy-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed conditions for exercising federal reemployment rights, including applying in writing within 30 calendar days after involuntary separation, function reversion, or separation with joint consent, though it does not fully complete the list of conditions before the text is cut off.",5,"This question is highly valuable for multiple stakeholders in federal employment. It directly addresses a critical aspect of Title 5 regulations concerning reemployment rights, which is crucial for federal employees who may have left federal service temporarily and wish to return. The question is relevant to:
+
+1. Federal employees who have taken leave of absence or been separated from service
+2. HR specialists who need to understand and implement reemployment procedures
+3. Managers involved in hiring and understanding candidate backgrounds
+4. Veterans seeking to return to federal employment after military service
+5. Individuals researching federal employment protections and rights
+
+The question seeks substantive information about a specific and important regulatory area. Understanding reemployment rights is essential for ensuring fair employment practices, protecting employee rights, and maintaining compliance with federal employment regulations. It touches on key aspects of job security, career continuity, and legal protections for federal workers.
+
+The broad nature of the question suggests a desire for comprehensive understanding of the conditions governing reemployment, which could include factors like:
+- Time limits for exercising rights
+- Eligibility criteria
+- Preservation of previous service credits
+- Reinstatement procedures
+
+This makes it an extremely practical and useful inquiry for anyone involved in or interested in federal employment policies."
+17,17,Who coordinates salary offset debt collections at OPM?,OPM salary offset debt collection coord?,"According to the context, the designated salary offset coordinator at OPM is responsible for coordinating salary offset debt collections, which includes ensuring proper notices, certifications, obtaining hearing officials, and scheduling hearings.","The Director or his or her designee shall coordinate debt collections with other agencies and shall, as appropriate
+The designated salary offset coordinator will be responsible for ensuring that each notice of intent to offset is consistent with the requirements of § 179.206
+The designated salary offset coordinator will be responsible for ensuring that each certification of debt that is sent to a paying agency is consistent with the requirements of § 179.208
+The designated salary offset coordinator will be responsible for obtaining hearing officials from other agencies pursuant to § 179.207(f)
+The designated salary offset coordinator will be responsible for ensuring that hearings are properly scheduled","order to liquidate the office debt. 
+(g) When an employee owes two or 
+more debts, the best interests of the 
+Government shall be the primary con-
+sideration in determining the order of 
+debt collection. The OPM payroll of-
+fice, in making this determination, 
+will be guided primarily by the statute 
+of limitations that affects the collec-
+tion of the debt(s). 
+§ 179.213 Coordinating salary offset 
+with other agencies. 
+(a) Responsibility of OPM as the cred-
+itor agency. (1) The Director or his or 
+her designee shall coordinate debt col-
+lections with other agencies and shall, 
+as appropriate: 
+(i) Arrange for a hearing or special 
+review upon proper petitioning by a 
+Federal employee; and 
+(ii) Prescribe, upon consultation with 
+the General Counsel, such additional 
+practices and procedures as may be 
+necessary to carry out the intent of 
+this regulation. 
+(2) The designated salary offset coor-
+dinator will be responsible for: 
+(i) Ensuring that each notice of in-
+tent to offset is consistent with the re-
+quirements of § 179.206; 
+(ii) Ensuring that each certification 
+of debt that is sent to a paying agency 
+is consistent with the requirements of 
+§ 179.208; 
+(iii) Obtaining hearing officials from 
+other agencies pursuant to § 179.207(f); 
+and 
+(iv) Ensuring that hearings are prop-
+erly scheduled. 
+(3) Requesting recovery from current 
+paying agency. Upon completion of the 
+procedures established in these regula-
+tions and pursuant to 5 U.S.C. 5514, the 
+Office must:",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides substantial information about the salary offset debt collection coordinator at OPM, specifically mentioning that a ""designated salary offset coordinator"" is responsible for ensuring proper notices, certifications, obtaining hearing officials, and scheduling hearings, which directly addresses who coordinates these debt collections.",3,"This question has moderate usefulness for federal employment stakeholders. While it addresses a specific administrative process related to debt collection within the Office of Personnel Management (OPM), its practical value is somewhat limited. HR specialists and federal employees dealing with salary offset situations might find this information helpful for understanding the internal process of debt collection. However, the question is quite narrow and doesn't provide broader insights into salary offset policies or procedures. The information could be useful for someone navigating a specific debt collection scenario or seeking to understand OPM's internal operations, but it lacks the broader applicability that would make it highly valuable to a wide range of federal employment stakeholders."
+131,131,How does an agency calculate lump-sum payment for premium pay?,Calc method for agency's premium pay lump sum?,"An agency calculates lump-sum payment for premium pay based on the percentage rate received by the employee in the pay period immediately prior to becoming eligible for the payment, and in cases where premium pay was limited by a statutory cap, the agency uses a reduced percentage rate that reflects the actual amount of premium pay received in that pay period.","The agency must base the lump-sum payment on the percentage rate received by the employee for the pay period immediately prior to the date the employee became eligible for a lump-sum payment under § 550.1203.
+In cases where the amount of premium pay actually payable in the final pay period was limited by a statutory cap, the agency must base the lump-sum payment on a reduced percentage rate that reflects the actual amount of premium pay the employee received in that pay period.","664 
+5 CFR Ch. I (1–1–25 Edition) § 550.1205 
+immediately prior to the date the em-
+ployee became eligible for a lump-sum 
+payment under § 550.1203. The agency 
+must base the lump-sum payment on 
+the percentage rate received by the 
+employee for the pay period imme-
+diately prior to the date the employee 
+became eligible for a lump-sum pay-
+ment under § 550.1203. In cases where 
+the amount of premium pay actually 
+payable in the final pay period was lim-
+ited by a statutory cap, the agency 
+must base the lump-sum payment on a 
+reduced percentage rate that reflects 
+the actual amount of premium pay the 
+employee received in that pay period. 
+(iii) Overtime pay under 5 U.S.C. 
+5545b and § 550.1304 of this chapter for 
+overtime hours in an employee’s un-
+common tour of duty (as defined in 
+§ 630.201 of this chapter), established in 
+accordance with § 630.210 of this chap-
+ter. The uncommon tour of duty must 
+be applicable to the employee for the 
+pay period immediately prior to the 
+date the employee became eligible for a 
+lump-sum payment under § 550.1203. 
+The agency must calculate overtime 
+pay using the same methodology it 
+used to calculate the employee’s enti-
+tlement to overtime pay as provided in 
+§ 550.1304 of this chapter in the pay pe-
+riod immediately prior to the date the 
+employee became eligible for a lump- 
+sum payment under § 550.1203. An agen-
+cy may not change an employee’s work 
+schedule for the sole purpose of avoid-
+ing or providing payment of premium",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed guidance on calculating lump-sum payments for premium pay, specifying that agencies must base the payment on the percentage rate received in the pay period immediately prior to eligibility, and must account for any statutory caps that might have limited the actual premium pay received.",4,"This question is highly relevant to federal employment regulations under Title 5, specifically addressing compensation and pay calculations. It demonstrates a practical information need that would be valuable for HR specialists, payroll administrators, and federal employees seeking to understand their compensation structure. The question focuses on a specific technical aspect of premium pay lump-sum payments, which requires detailed knowledge of federal pay regulations. Such information is crucial for ensuring accurate compensation, understanding pay entitlements, and maintaining compliance with federal employment guidelines. While the question is somewhat specialized, it represents a genuine and important inquiry that could help federal employees and HR professionals navigate complex pay calculation processes. The technical nature of the question suggests it would be particularly useful for those directly involved in federal payroll management or employees seeking to understand their compensation details."
+141,141,What types of appointments are considered nonqualifying for severance pay?,Nonqualifying appts for sev pay?,"According to the context, nonqualifying appointments for severance pay include: an appointment at a noncovered agency, an intermittent work schedule appointment, a Presidential appointment, an emergency appointment, an excepted appointment under Schedule C, a noncareer Senior Executive Service appointment, an equivalent appointment, and a time-limited appointment (with some exceptions).","Nonqualifying appointment means an appointment that does not convey eligibility for severance pay under this subpart, including—
+(a) An appointment at a noncovered agency;
+(b) An appointment in which the employee has an intermittent work schedule;
+(c) A Presidential appointment;
+(d) An emergency appointment;
+(e) An excepted appointment under Schedule C; a noncareer appointment in the Senior Executive Service, as defined in 5 U.S.C. 3132(a); or an equivalent appointment made for similar purposes; and
+(f) A time-limited appointment (except for a time-limited appointment that is qualifying because it is made effective within 3 calendar days after","the employee’s will and without his or 
+her consent for reasons other than inef-
+ficiency, including a separation result-
+ing from the expiration of a time-lim-
+ited appointment effected within 3 cal-
+endar days after separation from a 
+qualifying appointment. In addition, 
+when an employee is separated because 
+he or she declines to accept reassign-
+ment outside his or her commuting 
+area, the separation is ‘‘involuntary’’ if 
+the employee’s position description or 
+other written agreement does not pro-
+vide for such a reassignment. However, 
+an employee’s separation is not ‘‘in-
+voluntary’’ if, after such a written mo-
+bility agreement is added, the em-
+ployee accepts one reassignment out-
+side his or her commuting area, but 
+subsequently declines another such re-
+assignment. 
+Nonqualifying appointment means an 
+appointment that does not convey eli-
+gibility for severance pay under this 
+subpart, including— 
+(a) An appointment at a noncovered 
+agency; 
+(b) An appointment in which the em-
+ployee has an intermittent work sched-
+ule; 
+(c) A Presidential appointment; 
+(d) An emergency appointment; 
+(e) An excepted appointment under 
+Schedule C; a noncareer appointment 
+in the Senior Executive Service, as de-
+fined in 5 U.S.C. 3132(a); or an equiva-
+lent appointment made for similar pur-
+poses; and 
+(f) A time-limited appointment (ex-
+cept for a time-limited appointment 
+that is qualifying because it is made ef-
+fective within 3 calendar days after",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides a comprehensive list of nonqualifying appointments, including specific types such as appointments at noncovered agencies, intermittent work schedules, Presidential appointments, emergency appointments, excepted appointments, noncareer Senior Executive Service appointments, and most time-limited appointments.",4,"This question is highly relevant to federal employment regulations and has significant practical value for multiple stakeholders. For HR specialists and managers, understanding nonqualifying appointments for severance pay is crucial for workforce management and employee compensation planning. Federal employees, especially those in transitional career stages, would benefit from knowing which types of appointments might exclude them from severance pay protections.
+
+The question directly addresses a specific aspect of Title 5 regulations related to employment status and compensation, demonstrating a clear information need. It requires technical knowledge about appointment classifications and their implications for financial benefits. This type of inquiry is precisely the kind of detailed policy understanding that federal employees and HR professionals need to navigate complex employment regulations.
+
+The technical nature of the question suggests it would be most useful for HR professionals, managers involved in staffing and workforce planning, and federal employees concerned about their employment status and potential financial protections. While not a broadly applicable question for all federal workers, it represents an important nuanced aspect of federal employment policy that could have significant individual impact.
+
+The only reason it does not receive a perfect 5 rating is that it is somewhat specialized and might not have universal relevance across all federal employment contexts. However, for those directly affected, this question provides critical regulatory insight."
+93,93,What conditions allow a former SES career appointee to be reinstated?,Reinstatement criteria for ex-SES appointee?,"A former SES career appointee can be reinstated if they were appointed by the President to a civil service position outside the SES without a break in service, and left the Presidential appointment for reasons other than misconduct, neglect of duty, or malfeasance, and they apply to OPM in writing within 90 days.","A former SES career appointee who was appointed by the President to a civil service position outside the SES without a break in service, and who left the Presidential appointment for reasons other than misconduct, neglect of duty, or malfeasance, is entitled by law to be reinstated to the SES.
+If an individual is serving under a Presidential appointment with reinstatement entitlement and receives another Presidential appointment without a break in service between the two appointments, the individual continues to be entitled to be reinstated to the SES following termination of the second appointment.
+If there is an interim period between the two Presidential appointments, the individual must be reinstated as an SES career appointee before the effective date of the second appointment to preserve reinstatement entitlement following termination of the second appointment.","172, Jan. 3, 1991] 
+§ 317.703 Guaranteed reinstatement: 
+Presidential appointees. 
+(a) Eligibility for reinstatement. (1) A 
+former SES career appointee who was 
+appointed by the President to a civil 
+service position outside the SES with-
+out a break in service, and who left the 
+Presidential appointment for reasons 
+other than misconduct, neglect of 
+duty, or malfeasance, is entitled by law 
+to be reinstated to the SES. 
+(2) If an individual is serving under a 
+Presidential appointment with rein-
+statement entitlement and receives an-
+other Presidential appointment with-
+out a break in service between the two 
+appointments, the individual continues 
+to be entitled to be reinstated to the 
+SES following termination of the sec-
+ond appointment. If there is an interim 
+period between the two Presidential 
+appointments, the individual must be 
+reinstated as an SES career appointee 
+before the effective date of the second 
+appointment to preserve reinstatement 
+entitlement following termination of 
+the second appointment. 
+(b) Applying for reinstatement; time 
+limit. Except as provided in paragraph 
+(d) of this section, an application in 
+writing for reinstatement under this 
+section must be made to OPM within 90 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00218 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed conditions for reinstatement, specifically that a former SES career appointee can be reinstated if they were appointed by the President to a civil service position outside the SES without a break in service, left the Presidential appointment for reasons other than misconduct, neglect of duty, or malfeasance, and applies within 90 days, with the only minor detail missing being the exact process of application.",5,"This question is highly valuable for multiple stakeholders in federal employment. For Senior Executive Service (SES) career appointees, understanding reinstatement conditions is crucial for career planning and potential future opportunities. HR specialists would find this information essential for correctly processing reinstatement procedures. Managers involved in executive recruitment and talent management would benefit from knowing the specific regulatory conditions that govern SES career appointee reinstatement.
+
+The question directly addresses a specific and nuanced aspect of Title 5 regulations related to senior federal executive personnel. It demonstrates a sophisticated information need that goes beyond basic policy understanding and seeks precise details about career mobility and reinstatement mechanisms within the federal employment system. The technical nature of the question suggests it would be particularly useful for those deeply engaged with federal employment policies and SES career management.
+
+The practical implications are significant, as reinstatement conditions can impact an executive's career trajectory, potential return to federal service, and understanding of their rights and opportunities after leaving a previous SES position. This makes the question highly relevant and applicable to federal employment policy research and professional decision-making."
+57,57,What happens to restored annual leave when a DOD employee enters active duty?,DOD emp. active duty: restored leave status?,"When a DOD employee enters active duty, the agency must make a lump-sum payment for any annual leave previously restored under 5 U.S.C. 6304(d), and the agency may not recredit the restored leave when the employee returns to Federal service.","An agency must make a lump-sum payment for any annual leave previously restored under 5 U.S.C. 6304(d) when the employee enters active duty.
+The agency may not recredit the restored leave when the employee returns to Federal service.","provided in paragraphs (c), (d), and (e) 
+of this section. 
+(b) The Department of Defense (DOD) 
+must make a lump-sum payment to an 
+employee who has unused annual leave 
+that was restored under 5 U.S.C. 
+6304(d)(3) when he or she transfers from 
+a DOD installation undergoing closure 
+or realignment to a position in any 
+other department or agency of the Fed-
+eral Government or moves to a posi-
+tion within DOD not located at an in-
+stallation undergoing closure or re-
+alignment. 
+(c) An employee who enters on active 
+duty in the armed forces may elect to 
+receive a lump-sum payment for accu-
+mulated and accrued annual leave or 
+may request to have the annual leave 
+remain to his or her credit until return 
+from active duty. However, an agency 
+must make a lump-sum payment for 
+any annual leave previously restored 
+under 5 U.S.C. 6304(d) when the em-
+ployee enters active duty. The agency 
+may not recredit the restored leave 
+when the employee returns to Federal 
+service. 
+(d) An employee who transfers to a 
+position in a public international orga-
+nization under 5 U.S.C. 3582 may elect 
+to retain accumulated and accrued an-
+nual leave to his or her credit at the 
+time of transfer or receive a lump-sum 
+payment for such annual leave under 5 
+U.S.C. 3582(a)(4). However, the agency 
+must make a lump-sum payment for 
+any annual leave previously restored 
+under 5 U.S.C. 6304(d) when the em-
+ployee transfers to the public inter-
+national organization. The agency may",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly addresses what happens to restored annual leave when a DOD employee enters active duty, specifically stating that the agency must make a lump-sum payment for any previously restored leave and cannot recredit the leave when the employee returns to Federal service.",5,"This is an excellent, highly practical question that directly addresses a specific scenario covered under Title 5 CFR regulations. The question is particularly relevant for Department of Defense (DOD) employees who may be called to active military service and need to understand their leave benefits. It touches on important employment rights and protections for federal employees with military service obligations.
+
+The question is valuable for multiple stakeholders:
+- DOD employees considering or entering active military duty
+- HR specialists who need to process leave restoration for military service members
+- Managers tracking employee leave and military service commitments
+- Military reservists and National Guard members employed by the federal government
+
+The query demonstrates a genuine need for specific information about leave management during military service, which is a critical protection under federal employment regulations. It requires understanding the intersection of federal employment leave policies and military service obligations, making it a nuanced and practical inquiry that could have significant personal and professional implications for the employee."
+138,138,Which counties are included in the Pittsburgh-New Castle-Weirton CSA?,Counties in Pgh-New Castle-Weirton CSA?,"The Pittsburgh-New Castle-Weirton CSA includes Belmont County, OH, Cambria County, PA, Greene County, PA, Somerset County, PA, Marshall County, WV, and Ohio County, WV.","(42) Pittsburgh-New Castle-Weirton, PA-OH-WV—consisting of the Pitts-burgh-New Castle-Weirton, PA-OH-WV CSA and also including Belmont Coun-ty, OH, Cambria County, PA, Greene County, PA, Somerset County, PA, Marshall County, WV, and Ohio County, WV;","(39) Palm Bay-Melbourne-Titusville, 
+FL—consisting of the Palm Bay-Mel-
+bourne-Titusville, FL MSA; 
+(40) Philadelphia-Reading-Camden, 
+PA-NJ-DE-MD—consisting of the 
+Philadelphia-Reading-Camden, PA-NJ- 
+DE-MD CSA, except for Joint Base 
+McGuire-Dix-Lakehurst, and also in-
+cluding Sussex County, DE, Somerset 
+County, MD, Wicomico County, MD, 
+Worcester County, MD, and Schuylkill 
+County, PA; 
+(41) Phoenix-Mesa, AZ—consisting of 
+the Phoenix-Mesa, AZ CSA; 
+(42) Pittsburgh-New Castle-Weirton, 
+PA-OH-WV—consisting of the Pitts-
+burgh-New Castle-Weirton, PA-OH-WV 
+CSA and also including Belmont Coun-
+ty, OH, Cambria County, PA, Greene 
+County, PA, Somerset County, PA, 
+Marshall County, WV, and Ohio Coun-
+ty, WV; 
+(43) Portland-Vancouver-Salem, OR- 
+WA—consisting of the Portland-Van-
+couver-Salem, OR-WA CSA and also in-
+cluding Wahkiakum County, WA; 
+(44) Raleigh-Durham-Cary, NC—con-
+sisting of the Raleigh-Durham-Cary, 
+NC CSA and also including Caswell 
+County, NC, Cumberland County, NC, 
+Edgecombe County, NC, Halifax Coun-
+ty, NC, Harnett County, NC, Hoke 
+County, NC, Lee County, NC, Moore 
+County, NC, Nash County, NC, North-
+ampton County, NC, Robeson County, 
+NC, Scotland County, NC, Warren 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00447 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides a detailed list of counties included in the Pittsburgh-New Castle-Weirton CSA, specifically mentioning Belmont County (OH), Cambria County (PA), Greene County (PA), Somerset County (PA), Marshall County (WV), and Ohio County (WV), which allows for a nearly complete answer to the question.",1,"This question appears to be about a Consolidated Statistical Area (CSA) geographic definition and does not directly relate to Title 5 regulations about federal employment. While geographic information might occasionally be relevant to federal employment contexts, this specific question lacks clear connection to government organization, employee policies, benefits, rights, or procedures covered in Title 5. The question seems more suited to geographic or demographic research rather than federal employment policy. It does not provide actionable information for HR specialists, managers, federal employees, or retirees, and therefore receives the lowest usefulness rating."
+115,115,What actions can an agency take with emergency-indefinite employees?,Scope of actions re: emerg-indef personnel?,"According to the context, an agency can promote, demote, or reassign an emergency-indefinite employee to any position for which it is making emergency-indefinite appointments.","An agency may promote, demote, or reassign an emergency-indefinite employee to any position for which it is making emergency-indefinite appointments.","81 
+Office of Personnel Management § 250.103 
+(i) Promotion, demotion, or reassign-
+ment. An agency may promote, demote, 
+or reassign an emergency-indefinite 
+employee to any position for which it 
+is making emergency-indefinite ap-
+pointments. 
+(5 U.S.C. 1104; Pub. L. 95–454, sec. 3(5)) 
+[44 FR 54691, Sept. 21, 1979, as amended at 60 
+FR 3057, Jan. 13, 1995; 68 FR 35268, June 13, 
+2003; 69 FR 33275, June 15, 2004] 
+PART 250—PERSONNEL 
+MANAGEMENT IN AGENCIES 
+Subpart A—Authority for Personnel Actions 
+in Agencies 
+Sec. 
+250.101 Standards and requirements for 
+agency personnel actions. 
+250.102 Delegated authorities. 
+250.103 Consequences of improper agency ac-
+tions. 
+Subpart B—Strategic Human Capital 
+Management 
+250.201 Coverage and purpose. 
+250.202 Definitions. 
+250.203 Strategic Human Capital manage-
+ment systems and standards. 
+250.204 Agency roles and responsibilities. 
+250.205 Human Capital Operating Plan 
+(HCOP). 
+250.206 Human Capital Reviews (HCR). 
+250.207 HRStat. 
+250.208 System metrics. 
+250.209 Consequences of improper agency ac-
+tions. 
+Subpart C—Employee Surveys 
+250.301 Definitions. 
+250.302 Survey requirements. 
+250.303 Availability of results. 
+A
+UTHORITY: 5 U.S.C. 1101 note, 1103(a)(5), 
+1103(c), 1104, 1302, 3301, 3302; E.O. 10577, 12 FR 
+1259, 3 CFR, 1954–1958 Comp., p. 218; E.O. 
+13197, 66 FR 7853, 3 CFR 748 (2002). 
+Subpart B also issued under 5 U.S.C. 1401, 
+1401 note, 1402. 
+S
+OURCE: 58 FR 36119, July 6, 1993, unless 
+otherwise noted.",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides a clear and specific statement about one key action an agency can take with emergency-indefinite employees (promote, demote, or reassign them to any position where the agency is making emergency-indefinite appointments), which covers most aspects of the question, though it may not be an exhaustive list of all possible actions.",4,"This question is highly relevant to federal employment regulations under Title 5, specifically addressing workforce management and employment classifications. Emergency-indefinite employees represent a unique employment category with specific legal and administrative considerations. The question is practical and directly applicable to HR specialists, managers, and federal employment administrators who need to understand the scope of actions permissible with this type of employee.
+
+The question demonstrates a substantive information need about employment practices, touching on potential administrative actions, hiring flexibility, and workforce management strategies. It requires a nuanced understanding of federal employment regulations and the specific legal framework surrounding emergency-indefinite appointments.
+
+HR professionals would find this question particularly useful for understanding their administrative options, compliance requirements, and the legal boundaries of managing this specific type of federal employment status. Managers responsible for workforce planning and staffing would also benefit from clear guidance on how they can utilize and manage emergency-indefinite employees.
+
+While the question is somewhat technical, it represents a genuine and practical information need that could help federal agencies navigate complex employment scenarios, particularly during emergencies or periods of uncertain staffing requirements. The specificity of the question suggests a real-world context where understanding these actions is crucial for effective organizational management."
+5,5,When does an employee's entitlement to reemployment terminate?,Emp. reemployment rights cease when?,"An employee's entitlement to reemployment terminates when they fail to apply for reemployment within the specified time limit, resign from tribal service without joint consent, or fail to accept a proper offer of reemployment within 10 calendar days of receipt.","entitlement to reemployment terminates for: 
+(1) Failure to apply for reemployment within the time limit stated in paragraph (a) of this section; 
+(2) Resignation from tribal service without the joint consent, described in paragraph (a)(3) of this section, of the tribal organization and the Federal employer; or 
+(3) Failure to accept, within 10 calendar days of receipt thereof, an offer of reemployment made under § 352.706 which is determined by the employing agency or by the Merit Systems Protection Board on appeal to be a proper offer of reemployment.","entitlement to reemployment termi-
+nates for: 
+(1) Failure to apply for reemploy-
+ment within the time limit stated in 
+paragraph (a) of this section; 
+(2) Resignation from tribal service 
+without the joint consent, described in 
+paragraph (a)(3) of this section, of the 
+tribal organization and the Federal em-
+ployer; or 
+(3) Failure to accept, within 10 cal-
+endar days of receipt thereof, an offer 
+of reemployment made under § 352.706 
+which is determined by the employing 
+agency or by the Merit Systems Pro-
+tection Board on appeal to be a proper 
+offer of reemployment. 
+§ 352.706 Agency response to reem-
+ployment application. 
+(a) Employee’s right to reemployment. 
+An employee is entitled to be reem-
+ployed by the reemploying agency as 
+promptly as possible, and, in any 
+event, within 45 calendar days after 
+agency receipt of application. 
+(1) Within the competitive area the 
+employee is entitled to reemployment 
+in: 
+(i) The position held immediately be-
+fore leaving the agency; 
+(ii) One in the same competitive 
+level; or 
+(iii) Another position for which quali-
+fied and eligible at the same grade or 
+level and in the same competitive area 
+as the position the employee last held 
+in the agency. The employing agency 
+determines the position under para-
+graph (a)(1) (i), (ii), or (iii) of this sec-
+tion to which the employee is entitled. 
+Reduction-in-force procedures shall be 
+applied where necessary in determining 
+the position to which the employee has",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly and comprehensively lists the three specific conditions under which an employee's entitlement to reemployment terminates: (1) failing to apply for reemployment within the stated time limit, (2) resigning from tribal service without joint consent, and (3) failing to accept a proper reemployment offer within 10 calendar days.",4,"This question is highly relevant to Title 5 regulations and addresses an important aspect of federal employment rights and protections. Reemployment entitlement is a critical issue for federal employees who may have been temporarily separated from service due to various circumstances such as military service, disability, or other protected leaves. 
+
+The question is practical and directly applicable to multiple stakeholders:
+- HR specialists need to understand the precise conditions that terminate reemployment rights
+- Managers must be aware of an employee's potential reemployment status
+- Federal employees and soon-to-be retirees need to know their rights and protections
+- Legal professionals and employment researchers would find this information valuable for understanding federal employment regulations
+
+The question touches on a substantive policy area that requires specific knowledge of Title 5 regulations. It seeks to clarify the conditions under which an employee's reemployment rights may be discontinued, which is crucial for ensuring fair treatment and understanding employment protections.
+
+While the question is somewhat technical, it represents a genuine information need that could have significant practical implications for federal employees and employers. The only reason it doesn't receive a perfect 5 is that it is somewhat narrowly focused on a specific procedural aspect of employment rights."
+11,11,What defines a qualifying service-connected disability?,Criteria for svc-connected disability?,"A qualifying service-connected disability means a veteran's service-connected disability rated at 30 percent or more by the Veteran Benefits Administration, including a combined degree of disability of 30 percent or more that reflects the combined effect of multiple individual disabilities, which resulted in the award of disability compensation under title 38, United States Code, with a temporary disability rating under 38 U.S.C. 1156 also considered valid while in effect.","Qualifying service-connected disability means a veteran's service-connected disability rated at 30 percent or more by the Veteran Benefits Administration, including a combined degree of disability of 30 percent or more that reflects the combined effect of multiple individual disabilities, which resulted in the award of disability compensation under title 38, United States Code.
+A temporary disability rating under 38 U.S.C. 1156 is considered a valid rating in applying this definition for as long as it is in effect.","subpart; or 
+(3) Returning to duty status in a ci-
+vilian position in the Federal Govern-
+ment in which the service qualifies as 
+employment under this subpart, when 
+such return immediately followed a 
+break in civilian duty (with the em-
+ployee in continuous civilian leave sta-
+tus) to perform military service. 
+Medical certificate means a written 
+statement signed by a health care pro-
+vider certifying to the treatment of a 
+veteran’s qualifying service-connected 
+disability. 
+Medical treatment means any activity 
+carried out or prescribed by a health 
+care provider to treat a veteran’s quali-
+fying service-connected disability. 
+Military service means ‘‘active mili-
+tary, naval, or air service’’ as that 
+term is defined in 38 U.S.C. 101(24). 
+Qualifying reappointment means an 
+appointment of a former employee of 
+the Federal Government following a 
+break in employment of at least 90 cal-
+endar days. 
+Qualifying service-connected disability 
+means a veteran’s service-connected 
+disability rated at 30 percent or more 
+by the Veteran Benefits Administra-
+tion, including a combined degree of 
+disability of 30 percent or more that re-
+flects the combined effect of multiple 
+individual disabilities, which resulted 
+in the award of disability compensa-
+tion under title 38, United States Code. 
+A temporary disability rating under 38 
+U.S.C. 1156 is considered a valid rating 
+in applying this definition for as long 
+as it is in effect. 
+Service-connected has the meaning",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides a precise and comprehensive definition of a qualifying service-connected disability, specifying that it is a veteran's service-connected disability rated at 30 percent or more by the Veteran Benefits Administration, including combined disabilities, and noting that temporary disability ratings under 38 U.S.C. 1156 are also considered valid.",4,"This question is highly relevant to federal employment regulations, specifically addressing disability classifications that impact federal employees' rights, benefits, and potential accommodations. The query touches on an important aspect of Title 5 that relates to veterans' employment protections, disability management, and potential reasonable accommodations in federal service.
+
+The question is particularly useful for:
+- HR specialists who need to understand disability classifications
+- Federal employees with service-connected disabilities
+- Managers responsible for workplace accommodations
+- Veterans seeking to understand their employment rights and benefits
+
+While the question is somewhat broad and would benefit from more specific context (such as which specific type of service-connected disability or in what specific employment context), it represents a genuine information need that could help stakeholders navigate complex federal employment regulations related to disability status.
+
+The practicality is high, as service-connected disabilities have significant implications for federal employment, including hiring preferences, workplace accommodations, potential medical retirements, and benefits. Understanding the precise definition is crucial for both employees and employers in the federal workforce.
+
+The question demonstrates a clear intent to gain substantive knowledge about an important regulatory area, making it a valuable inquiry for those involved in or studying federal employment policies."
+134,134,When are employees eligible for overtime compensation?,OT eligibility criteria for workers?,"Employees are eligible for overtime compensation when they work more than 8 hours in a day or 40 hours in a workweek, at a rate of one and one-half times their regular hourly rate of pay, with certain exceptions related to specific types of compensation and duty.","An agency shall compensate an employee who is not exempt under subpart B of this part for all hours of work in excess of 8 in a day or 40 in a work-week at a rate equal to one and one-half times the employee's hourly regular rate of pay, except that an employee shall not receive overtime compensation under this part—","716 
+5 CFR Ch. I (1–1–25 Edition) § 551.501 
+(d) If sleep time is interrupted by a 
+call to duty, the time spent on duty is 
+considered hours of work. 
+(e) On-duty sleep and meal time dur-
+ing regularly scheduled hours for which 
+standby duty premium pay under 5 
+U.S.C. 5545(c)(1) is payable may not be 
+excluded from hours of work. 
+(f) For firefighters compensated 
+under 5 U.S.C. 5545b, on-duty sleep and 
+meal time may not be excluded from 
+hours of work. 
+[45 FR 85664, Dec. 30, 1980, as amended at 57 
+FR 59279, Dec. 15, 1992; 64 FR 69180, Dec. 10, 
+1999] 
+Subpart E—Overtime Pay 
+Provisions 
+SOURCE: 45 FR 85665, Dec. 30, 1980, unless 
+otherwise noted. 
+BASIC PROVISIONS 
+§ 551.501 Overtime pay. 
+(a) An agency shall compensate an 
+employee who is not exempt under sub-
+part B of this part for all hours of work 
+in excess of 8 in a day or 40 in a work-
+week at a rate equal to one and one- 
+half times the employee’s hourly reg-
+ular rate of pay, except that an em-
+ployee shall not receive overtime com-
+pensation under this part— 
+(1) On the basis of periods of duty in 
+excess of 8 hours in a day when the em-
+ployee receives compensation for that 
+duty under 5 U.S.C. 5545(c)(1) or (2) or 
+5545b; 
+(2) On the basis of hours of work in 
+excess of 8 hours in a day that are not 
+overtime hours of work under § 410.402 
+of this chapter, part 532 of this chapter 
+and 5 U.S.C. 5544, or part 550 of this 
+chapter; 
+(3) On the basis of hours of work in 
+excess of 8 hours in a day for an em-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,3,"The context provides partial information about overtime compensation, specifying that employees are generally compensated at 1.5 times their regular rate for hours worked over 8 in a day or 40 in a workweek, but also includes several exceptions and limitations that make the full eligibility criteria somewhat unclear.",5,"This question is highly useful and relevant for multiple stakeholders in federal employment. Overtime compensation is a critical aspect of pay and compensation regulations under Title 5, directly impacting federal employees, managers, and HR specialists. The question addresses a practical and common concern about employee compensation, which is fundamental to understanding federal labor policies. 
+
+For federal employees, this information is crucial for understanding their potential earnings and work expectations. For managers, it helps in workforce planning and budgeting. HR specialists need to know precise overtime eligibility rules to ensure proper compensation and compliance with federal regulations. The question is broad enough to prompt a comprehensive explanation of overtime rules, which could cover important details such as:
+- Which employee classifications are eligible
+- How overtime is calculated
+- Conditions that trigger overtime compensation
+- Differences between exempt and non-exempt employees
+
+The question's straightforward language makes it accessible to a wide range of stakeholders, from entry-level employees to senior management, and represents a genuine and important information need in federal employment context."
+18,18,Where can medical information records be found in CFR?,CFR med records loc?,"According to the context, medical information records can be found in CFR sections 297.205 and 293 subpart E.",Medical information ................................ 297.205 and 293 subpart E.,"available to the public. 
+[50 FR 3310, Jan. 24, 1985, as amended at 66 
+FR 66710, Dec. 27, 2001] 
+Subpart D—Cross References 
+§ 294.401 References. 
+The table below provides assistance 
+in locating other OPM regulations in 
+title 5 of the Code of Federal Regula-
+tions that have provisions on the dis-
+closure of records: 
+Type of information Location 
+Classification appeal records ................. 511.616. 
+Classification information ....................... 175.101. 
+Employee performance folders .............. 293.311. 
+Examination and related subjects 
+records.
+300.201. 
+Grade and pay retention records .......... 536.405. 
+Investigative records .............................. 736.104. 
+Job grading reviews and appeals 
+records.
+532.707. 
+Medical information ................................ 297.205 and 293 
+subpart E. 
+Official Personnel Folders ..................... 293.311. 
+Privacy and personnel records .............. 297. 
+Retirement ............................................. 831.106 and 
+841.108. 
+[54 FR 25098, June 13, 1989, as amended at 58 
+FR 32046, June 8, 1993; 70 FR 31286, May 31, 
+2005] 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00123 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly provides the location of medical information records in the Code of Federal Regulations as 297.205 and 293 subpart E, which precisely answers the question.",3,"This question has moderate usefulness for federal HR professionals and employees. While it seeks information about medical records, which are an important aspect of federal employment documentation, the question is somewhat vague and lacks specificity. 
+
+The relevance is moderate because medical information management is a critical concern in federal employment, touching on privacy, personnel records, and health-related workplace policies. However, the broad phrasing doesn't indicate a specific context or concern about medical records.
+
+The practicality is limited because the question doesn't clarify the specific need - whether it's about accessing personal medical records, understanding record-keeping requirements, or addressing privacy protections. HR specialists and employees might need more context to provide a precise answer.
+
+The information need appears genuine, as medical record management is an important aspect of federal employment regulations. However, the question could be more targeted to increase its utility. Stakeholders like HR professionals, privacy officers, and employees dealing with medical documentation would benefit from a more specific inquiry.
+
+The applicability is moderate. While understanding where medical records are documented in CFR is potentially useful, the question lacks the depth to provide immediate, actionable guidance. A more specific question about medical record handling, privacy protections, or access procedures would be more valuable."
+16,16,When can OPM provide a hearing official to a creditor agency?,OPM hearing official avail. for creditor agency when?,OPM will provide a hearing official upon request of the creditor agency when the debtor is employed by OPM and the creditor agency cannot provide a prompt and appropriate hearing through another lawful arrangement.,The Office will provide a hearing official upon request of the creditor agency when the debtor is employed by the Office and the creditor agency cannot provide a prompt and appropriate hearing before a hearing official furnished pursuant to another lawful arrangement.,"statute or regulation); or 
+(2) An administrative or judicial 
+order directs the Office to make a re-
+fund. 
+(b) Unless required or permitted by 
+law or contract, refunds under this sub-
+section shall not bear interest. 
+§ 179.216 Request for the services of a 
+hearing official when the creditor 
+agency is not OPM. 
+(a) The Office will provide a hearing 
+official upon request of the creditor 
+agency when the debtor is employed by 
+the Office and the creditor agency can-
+not provide a prompt and appropriate 
+hearing before a hearing official fur-
+nished pursuant to another lawful ar-
+rangement. 
+(b) The salary offset coordinator will 
+secure qualified personnel to serve as 
+hearing officials. 
+(c) Services rendered under this sec-
+tion will be provided on a fully reim-
+bursable basis pursuant to the Econ-
+omy Act of 1932, as amended, 31 U.S.C. 
+1535. 
+§ 179.217 Non-waiver of rights by pay-
+ments. 
+An employee’s involuntary payment 
+of all or any portion of a debt collected 
+under this subpart must not be con-
+strued as a waiver of any rights which 
+the employee may have under 5 U.S.C. 
+5514 or any other provision of contract 
+or law unless there are statutory or 
+contractual provisions to the contrary. 
+§ 179.218 Additional administrative 
+collection action. 
+Nothing contained in this subpart is 
+intended to preclude the use of any 
+other administrative remedy which 
+may be appropriate. 
+Subpart C—Administrative Offset 
+SOURCE: 59 FR 35214, July 11, 1994, unless",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides specific details about when OPM can provide a hearing official, specifically in section § 179.216(a), which states that OPM will provide a hearing official when the debtor is employed by the Office and the creditor agency cannot provide a prompt and appropriate hearing through another arrangement.",4,"This question is quite specific and relevant to Title 5 regulations, particularly in the context of debt collection and administrative procedures within federal employment. It addresses a nuanced aspect of Office of Personnel Management (OPM) responsibilities that could be important for HR specialists, federal employees dealing with debt issues, and legal professionals working with federal employment regulations. 
+
+The question demonstrates a practical information need related to administrative processes, specifically how OPM supports creditor agencies in debt collection proceedings. While it may not be a frequently asked question by all federal employees, it represents a specialized but important procedural detail that could be crucial in specific debt-related scenarios.
+
+The technical nature of the question suggests it would be most useful for HR professionals, legal advisors, and federal employees navigating complex administrative debt collection processes. It shows a desire to understand the specific circumstances under which OPM might provide a hearing official, which indicates a substantive interest in understanding procedural mechanisms within federal employment regulations."
+101,101,What's the contact number for FinCEN's Office of Human Resources?,FinCEN HR contact #?,(703) 905-3591,"(6) Financial Crimes Enforcement Network (FinCEN) Office of Human Resources, 2070 Chain Bridge Road, G99, Vienna, VA 22182, (703) 905–3591.","reau of the Fiscal Service, P.O. Box 1328, 
+Parkersburg WV 26106–1328, (304) 480–8303. 
+(4) Internal Revenue Service 
+Austin Payroll Center, P.O. Box 9002, Beck-
+ley, WV 25802–9002, (304) 254–5940. 
+(5) Alcohol and Tobacco Tax and Trade 
+Bureau 
+Bureau of the Fiscal Service, Attention: 
+Accounting Services Branch 2 Avery Street 
+A3–G, P.O. Box 1328, Parkersburg, WV 26106– 
+1328. 
+(6) Financial Crimes Enforcement Network 
+(FinCEN) 
+Office of Human Resources, 2070 Chain 
+Bridge Road, G99, Vienna, VA 22182, (703) 905– 
+3591. 
+(7) Office of the Inspector General 
+Office of Human Resources, 875 15th Street 
+NW, Suite 200, Washington, DC 20220, 202–927– 
+5200. 
+(8) Special Inspector General for Pandemic 
+Recovery 
+2051 Jamieson Avenue, Suite 600, Alexan-
+dria, VA 22314, (202) 695–0753. 
+(9) Special Inspector General for the 
+Troubled Asset Relief Program (SIGTARP) 
+HR Office, 14509 Delcastle Dr., Bowie, MD 
+20721, (202) 538–4647, 
+SIGTARPCareers@treasury.gov. 
+(10) Treasury Inspector General for Tax 
+Administration 
+Bureau of Fiscal Service, Administrative 
+Resource Center, Room A2–A, P.O. Box 1328, 
+Parkersburg, WV 26106–1328, (304) 480—8000 
+Option 4, 
+tigtaHRProcessing@fiscal.treasury.gov, Fax: 
+(304) 480—8295. 
+(11) Bureau of Engraving & Printing 
+Chief Counsel, 14th & C Streets NW, Room 
+306M, Washington, DC 20228, (202) 874–2500. 
+(12) Office of the Comptroller of the Currency 
+Washington Headquarters 
+Director of Litigation, Chief Counsel’s Of-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides the exact contact number (703-905-3591) for FinCEN's Office of Human Resources, located at 2070 Chain Bridge Road, G99, Vienna, VA 22182, which directly and completely answers the question.",2,"This question has limited usefulness for most stakeholders. While it relates to a federal agency's human resources contact information, it is extremely narrow in scope and does not provide substantive information about Title 5 regulations or federal employment policies. The question is purely administrative and could be easily resolved through a direct web search or agency directory. It lacks broader applicability to federal employment practices, policy interpretation, or employee rights and benefits. The only potential value might be for someone specifically needing to contact FinCEN's HR office, but this does not warrant a high rating in terms of regulatory knowledge or practical workplace guidance."
+2,2,What is a salary offset in federal employment?,Fed salary offset mechanism details?,"A salary offset is an administrative method to collect a debt from a federal employee by deducting money from their current pay account at one or more officially established pay intervals, without the employee's consent, as permitted under 5 U.S.C. 5514.","Salary offset means an administrative offset to collect a debt under 5 U.S.C. 5514 by deduction(s) at one or more officially established pay intervals from the current pay account of an employee, without his or her consent.","means the central payroll office. 
+Salary offset means an administrative 
+offset to collect a debt under 5 U.S.C. 
+5514 by deduction(s) at one or more of-
+ficially established pay intervals from 
+the current pay account of an em-
+ployee, without his or her consent. 
+Salary Offset Coordinator means an of-
+ficial, designated by the Director of 
+OPM, who is responsible for coordi-
+nating debt collection activities for 
+OPM. 
+Waiver means the cancellation, re-
+mission, forgiveness, or non-recovery 
+of a debt allegedly owed by an em-
+ployee to OPM or another agency as 
+permitted or required by 5 U.S.C. 5584, 
+10 U.S.C. 2774, 32 U.S.C. 716, or any 
+other law. 
+§ 179.204 Applicability of regulations. 
+These regulations are to be followed 
+for all OPM collections (except those 
+involving retirement, life, and health 
+insurance debts for recovery by the As-
+sociate Director for Retirement and In-
+surance) in instances where: 
+(a) OPM is owed a debt by an indi-
+vidual currently employed by another 
+agency; 
+(b) OPM is owed a debt by an indi-
+vidual who is a current employee of 
+OPM; or 
+(c) OPM currently employs an indi-
+vidual who owes a debt to another Fed-
+eral agency. Upon receipt of proper cer-
+tification from the creditor agency, 
+OPM will offset the debtor-employee’s 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00041 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides a clear and specific definition of salary offset as an administrative offset to collect a debt by deducting money from an employee's current pay account without their consent, which directly and comprehensively answers the core of the question about what a salary offset is in federal employment.",4,"This question is highly relevant and practical for federal employees, HR specialists, and managers. A salary offset is a specific mechanism in federal employment where an agency can deduct money from an employee's paycheck to recover debts owed to the government, such as overpayments, outstanding loans, or other financial obligations. 
+
+The question addresses an important administrative and financial policy that directly impacts federal employees' compensation and has significant implications for both employees and agencies. HR professionals need to understand the legal and procedural requirements for implementing salary offsets, while employees must be aware of potential circumstances that could trigger such deductions.
+
+The query is straightforward and seeks fundamental information about a technical but important aspect of federal employment compensation management. It would be particularly useful for:
+- New federal employees learning about payroll policies
+- HR specialists managing compensation and debt recovery
+- Employees seeking to understand their rights and potential financial deductions
+- Managers responsible for administrative and financial compliance
+
+The question's broad nature makes it applicable across different federal agencies and employment contexts, which increases its overall utility. While not extremely complex, it addresses a concrete and meaningful aspect of federal employment regulations covered under Title 5."
+37,37,When can a federal agency appoint someone without competitive examination?,Exceptions to fed hiring competitive exam requirements?,"A federal agency can appoint someone without competitive examination when the position's duties and compensation are unique, qualified persons are rare, the appointee meets all qualification requirements, and the appointment is specifically authorized by the Office or made under an agreement with the Office.","An agency may make an appointment without competitive examination when:
+(1) The duties and compensation of the position are such, or qualified persons are so rare, that in the interest of good civil service administration the position cannot be filled through open competitive examination;
+(2) The person to be appointed meets all applicable qualification requirements for the position; and
+(3) The appointment is specifically authorized by the Office or is made under an agreement between the agency and the Office providing for such appointments.","194 
+5 CFR Ch. I (1–1–25 Edition) § 316.601 
+Subpart F—Appointment Without 
+Competitive Examination in 
+Rare Cases 
+§ 316.601 Appointment without com-
+petitive examination in rare cases. 
+(a) An agency may make an appoint-
+ment without competitive examination 
+when: 
+(1) The duties and compensation of 
+the position are such, or qualified per-
+sons are so rare, that in the interest of 
+good civil service administration the 
+position cannot be filled through open 
+competitive examination; 
+(2) The person to be appointed meets 
+all applicable qualification require-
+ments for the position; and 
+(3) The appointment is specifically 
+authorized by the Office or is made 
+under an agreement between the agen-
+cy and the Office providing for such ap-
+pointments. 
+(b) A person appointed under para-
+graph (a) of this section does not ac-
+quire a competitive status on the basis 
+of that appointment. 
+(c) When a position filled under para-
+graph (a) of this section becomes va-
+cant, the agency may fill the vacancy 
+by another appointment under para-
+graph (a) of this section only if the 
+conditions of paragraph (a)(3) of this 
+section are again met. 
+[44 FR 55132, Sept. 25, 1979] 
+Subpart G—Retention of Incum-
+bents of Positions Brought Into 
+the Competitive Service 
+§ 316.701 Public or private enterprise 
+taken over by Government. 
+(a) When the Office, or an agency act-
+ing under an agreement with the Of-
+fice, finds that the Federal Govern-
+ment has taken over a public or private",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed criteria for non-competitive appointments, specifically outlining three key conditions: when position duties are unique, the candidate meets all qualifications, and the appointment is authorized by the Office, making it possible to answer the question comprehensively with only minor details potentially missing.",5,"This is an excellent, highly practical question that directly addresses a key aspect of federal hiring procedures under Title 5. The question explores an important exception to standard competitive hiring processes, which is crucial for HR specialists, managers involved in recruitment, and job seekers interested in federal employment. 
+
+The question is relevant because it touches on critical hiring regulations that govern how federal agencies can make non-competitive appointments. This information is valuable for understanding:
+- Excepted service appointments
+- Special hiring authorities
+- Circumstances where traditional competitive examination can be bypassed
+- Potential employment opportunities for specific candidate groups
+
+For HR professionals, this question helps clarify the legal pathways for hiring outside standard competitive processes. For potential federal employees, it provides insight into alternative routes to federal employment. Managers would find this useful in understanding their recruitment options.
+
+The question is broadly applicable across federal agencies and demonstrates a genuine need for understanding the nuances of federal hiring regulations. It represents a fundamental inquiry into the flexibility of federal employment practices while maintaining the principles of merit-based selection.
+
+The straightforward, clear language makes the question accessible to both technical and non-technical audiences, further enhancing its utility for a wide range of stakeholders interested in federal employment policies."
+55,55,What supplies are needed to care for a child?,Essentials for child care?,"Based on the context, the supplies needed to care for a child include baby food and diapers.","chase supplies needed to care for the \nchild (e.g., buying baby food, diapers, \nor other supplies).","chase supplies needed to care for the 
+child (e.g., buying baby food, diapers, 
+or other supplies). Leave based on the 
+‘‘care’’ language in paragraph (a)(1) of 
+this section would not be appropriate if 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00896 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,2,"The context only briefly mentions ""baby food"" and ""diapers"" as examples of child care supplies, providing very limited information to comprehensively answer the question about what supplies are needed to care for a child.",1,"This question is not relevant to Title 5 of the Code of Federal Regulations, which covers Government Organization and Employees. The query about child care supplies has no direct connection to federal employment policies, regulations, benefits, or procedures. While child care might be a concern for federal employees, this specific question about supplies does not address any Title 5 regulatory aspects such as parental leave, child care benefits, or workplace accommodations for parents. Therefore, it receives the lowest possible rating for usefulness in the context of federal employment regulations."
+73,73,What offices are mentioned in the National Security Council document?,NSC doc mentions which offices?,The offices mentioned in the National Security Council document are the National Security Council and the Office of Science and Technology Policy.,"National Security Council 32, XXI; 47, II
+Science and Technology Policy, Office of 32, XXIV; 47, II","National Security Council 32, XXI; 47, II 
+Presidential Documents 3 
+Science and Technology Policy, Office of 32, XXIV; 47, II 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00955 Fmt 8092 Sfmt 8092 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,2,"The context mentions the National Security Council and the Office of Science and Technology Policy, but provides no substantive details about these offices or their roles, making it difficult to comprehensively answer a question about the offices mentioned.",1,"This question appears to be unrelated to Title 5 of the Code of Federal Regulations, which covers Government Organization and Employees. The question seems to be about a National Security Council document and does not directly address federal employment policies, procedures, benefits, rights, or any other topics typically covered under Title 5. There is no clear connection to federal employment regulations or practices that would make this question useful for HR specialists, managers, federal employees, or other stakeholders interested in Title 5 information. The lack of relevance to federal employment contexts results in the lowest possible rating."
+61,61,Can CBP waive the 10% limit for agent duty station assignments?,CBP able to exceed 10% agent posting limit?,"Yes, CBP may waive the 10 percent limit and apply a higher percentage limit if it determines it can adequately fulfill its operational requirements based on a comprehensive staffing analysis conducted for the agent's duty station.",CBP may waive the 10 percent limit in paragraph (a) of this section and apply a higher percentage limit if CBP determines it is able to adequately fulfill its operational requirements under that higher limit based on a comprehensive staffing analysis conducted for the agent's duty station under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 (Pub. L. 113–277).,"stations). 
+(b) CBP may waive the 10 percent 
+limit in paragraph (a) of this section 
+and apply a higher percentage limit if 
+CBP determines it is able to ade-
+quately fulfill its operational require-
+ments under that higher limit based on 
+a comprehensive staffing analysis con-
+ducted for the agent’s duty station 
+under section 2(e) of the Border Patrol 
+Agent Pay Reform Act of 2014 (Pub. L. 
+113–277). 
+(c) The 10 percent limit in paragraph 
+(a) does not apply to agents working at 
+CBP headquarters or at a CBP training 
+location. 
+(d) Regardless of the percentage lim-
+its set under this section, assignments 
+of regular tours of duty to individual 
+agents must be made consistent with 
+the requirement to ensure pay assign-
+ment continuity under § 550.1615. 
+§ 550.1615 Pay assignment continuity. 
+(a) Plan. (1) In consultation with 
+OPM, CBP must develop and imple-
+ment a plan to ensure, to the greatest 
+extent practicable, that the assign-
+ment of a regular tour of duty to an 
+agent during all consecutive 3-year pe-
+riods within the control period speci-
+fied in paragraph (b) of this section 
+produces an average overtime supple-
+ment percentage (during each 3-year 
+period) that is consistent with the 
+agent’s average overtime supplement 
+percentage during the course of the 
+agent’s career prior to the beginning of 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00689 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly addresses the question in section (b), explicitly stating that CBP may waive the 10 percent limit and apply a higher percentage if they determine they can adequately fulfill operational requirements based on a comprehensive staffing analysis.",4,"This question is highly relevant to federal employment policies, specifically addressing a specific operational policy for Customs and Border Protection (CBP) agents. The question touches on duty station assignment regulations, which are critical for federal law enforcement personnel. It demonstrates a practical concern about potential exceptions to standard assignment rules, which would be of significant interest to:
+
+1. CBP agents seeking understanding of their potential assignment options
+2. HR specialists managing personnel assignments
+3. Managers responsible for workforce deployment
+4. Policy administrators interpreting assignment regulations
+
+The question suggests a nuanced inquiry about potential flexibility within standard assignment guidelines, indicating a sophisticated understanding of federal employment policy. While very specific to CBP, it represents the type of detailed policy interpretation that is crucial in federal employment contexts. The 10% limit reference implies there's an existing standard regulation being examined, which adds technical depth to the inquiry.
+
+The practicality is high because duty station assignments directly impact an employee's professional life, work-life balance, and career trajectory. Understanding potential waivers or exceptions to standard assignment rules can be critically important for federal law enforcement personnel."
+33,33,Can a federal employee serve as a claimant's representative?,Fed. rep. allowed as claimant's advocate?,"A federal employee can serve as a claimant's representative, but an agency may disallow their representation if it would cause a conflict of interest, if they cannot be released from official duties due to government priority needs, or if their release would create unreasonable costs to the government.","An agency may disallow a claimant's representative who is a Federal employee in any of the following circumstances:
+(a) When the individual's activities as a representative would cause a conflict of interest or position;
+(b) When the designated representative cannot be released from his or her official duties because of the priority needs of the Government; or
+(c) When the release of the designated representative would give rise to unreasonable costs to the Government.","(1) Was not a member of a bargaining 
+unit, or 
+(2) Was a member of a bargaining 
+unit not covered by a collective bar-
+gaining agreement, or 
+(3) Was a member of a bargaining 
+unit covered by a collective bargaining 
+agreement that specifically excluded 
+matters under the Act from the scope 
+of the NGP. 
+(c) Judicial review. Nothing in this 
+subpart limits the right of a claimant 
+to bring an action in an appropriate 
+United States court. Filing a claim 
+with an agency or with OPM does not 
+satisfy the statute of limitations gov-
+erning FLSA claims filed in court. 
+OPM will not decide an FLSA claim 
+that is in litigation. 
+§ 551.704 Claimant’s representative. 
+A claimant may designate a rep-
+resentative to assist in preparing or 
+presenting a claim. The claimant must 
+designate the representative in writ-
+ing. A representative may not partici-
+pate in OPM interviews unless specifi-
+cally requested to do so by OPM. An 
+agency may disallow a claimant’s rep-
+resentative who is a Federal employee 
+in any of the following circumstances: 
+(a) When the individual’s activities 
+as a representative would cause a con-
+flict of interest or position; 
+(b) When the designated representa-
+tive cannot be released from his or her 
+official duties because of the priority 
+needs of the Government; or 
+(c) When the release of the des-
+ignated representative would give rise 
+to unreasonable costs to the Govern-
+ment.",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context provides detailed conditions under which a federal employee can or cannot serve as a claimant's representative, specifically outlining three circumstances (conflict of interest, priority government needs, or unreasonable costs) where an agency may disallow a federal employee from being a representative, which directly addresses most aspects of the question.",4,"This question is highly relevant to federal employment regulations and addresses an important procedural issue that could impact multiple stakeholders. It touches on potential conflicts of interest, ethical guidelines, and professional conduct for federal employees. HR specialists, managers, and employees would find this information valuable for understanding the boundaries of representation and potential limitations on employee activities. The question suggests a specific scenario that could arise in various federal workplace contexts, such as administrative hearings, grievance procedures, or claims processes. While not a universally applicable topic, it represents a nuanced aspect of federal employment regulations that requires clear understanding to ensure compliance and maintain professional standards. The practical implications for employees who might be considering serving as representatives make this a useful inquiry for those seeking to navigate Title 5 guidelines comprehensively."
+60,60,Where should performance ratings of record be placed in an employee's folder?,Loc. for perf. ratings in emp. file?,"Performance ratings of record should be placed on the left (temporary) side of the employee's Official Personnel Folder (OPF), along with the performance plans on which the ratings are based.","Performance ratings of record, including the performance plans on which the ratings are based, must be placed in either the employee's Official Personnel Folder (OPF) or in the Employee Performance File (EPF).
+Performance ratings of record, including the performance plans on which the ratings are based, shall be retained on the left (temporary) side of the OPF.","ject to civil service rules and regula-
+tions, including Senior Executive Serv-
+ice positions as defined in 5 U.S.C. 
+3132(a)(2). 
+§ 293.402 Establishment of separate 
+employee performance record sys-
+tem. 
+(a) Copies of employees’ performance 
+ratings of record, including the per-
+formance plans on which the ratings 
+are based, must be placed in either the 
+employee’s Official Personnel Folder 
+(OPF) or in the Employee Performance 
+File (EPF). However, other perform-
+ance-related documents may be re-
+tained in the OPF only when the agen-
+cy prescribes the use of a separate en-
+velope, temporarily located in the 
+OPF, and removed whenever the OPF 
+(except as required in § 293.404(b)) is 
+transferred to another agency. Per-
+formance ratings of record, including 
+the performance plans on which the 
+ratings are based, shall be retained on 
+the left (temporary) side of the OPF. 
+No other performance-related record 
+shall be retained on the left (tem-
+porary) or right (long term) side of the 
+OPF or shall be transferred to the Na-
+tional Personnel Records Center (ex-
+cept as required by § 293.404(b)). 
+(b) Except for performance records 
+maintained in the OPF consistent with 
+paragraph (a) of this section, each 
+agency having employees occupying a 
+position described in § 293.401 shall pro-
+vide for maintenance of performance- 
+related records for such employees in 
+this EPF system. The agency may 
+elect to retain records in a separate 
+file that is located in the same office",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides explicit and precise instructions that performance ratings of record should be placed on the left (temporary) side of the Official Personnel Folder (OPF), making it possible to fully and unambiguously answer the question.",4,"This question is highly relevant to federal employment record-keeping and performance management practices covered under Title 5. It addresses a specific procedural concern that is directly applicable to HR specialists, managers, and employees who need to understand proper documentation protocols. The question touches on an important aspect of personnel file management, which is crucial for maintaining accurate employee records, ensuring transparency, and supporting potential future personnel actions like promotions, awards, or performance-based decisions. While seemingly straightforward, this type of procedural knowledge is essential for maintaining proper administrative practices in federal employment settings. HR professionals and employees would find this information valuable for understanding record-keeping requirements and ensuring compliance with federal regulations."
+107,107,Which federal agencies are listed under Title 36?,Title 36 fed agencies?,"Under Title 36, the federal agencies listed are National Park Service, Forest Service, Corps of Engineers, American Battle Monuments Commission, and Smithsonian Institution.","Title 36—Parks, Forests, and Public Property
+I National Park Service, Department of the Interior (Parts 1—199)
+II Forest Service, Department of Agriculture (Parts 200—299)
+III Corps of Engineers, Department of the Army (Parts 300—399)
+IV American Battle Monuments Commission (Parts 400—499)
+V Smithsonian Institution (Parts 500—599)","Education (Parts 700—799) [Reserved] 
+SUBTITLE C—R EGULATIONS RELATING TO EDUCATION 
+XI [Reserved] 
+XII National Council on Disability (Parts 1200—1299) 
+Title 35 [Reserved] 
+Title 36—Parks, Forests, and Public Property 
+I National Park Service, Department of the Interior (Parts 1—199) 
+II Forest Service, Department of Agriculture (Parts 200—299) 
+III Corps of Engineers, Department of the Army (Parts 300—399) 
+IV American Battle Monuments Commission (Parts 400—499) 
+V Smithsonian Institution (Parts 500—599) 
+VI [Reserved] 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00946 Fmt 8092 Sfmt 8092 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly lists all the federal agencies under Title 36, which include National Park Service (Department of the Interior), Forest Service (Department of Agriculture), Corps of Engineers (Department of the Army), American Battle Monuments Commission, and Smithsonian Institution.",2,"This question has limited usefulness for stakeholders interested in Title 5 regulations. While Title 36 is part of the Code of Federal Regulations, it actually covers Parks, Forests, and Public Property, which is not directly related to Title 5's focus on Government Organization and Employees. The question lacks practical relevance to federal employment policies, benefits, rights, or procedures. HR specialists, federal employees, and managers would likely find this query only marginally informative, as it does not provide insights into employment-related regulations. The question appears more suited to general administrative or archival research rather than addressing specific workforce management concerns covered under Title 5."
+4,4,How many times can an apply individual to the PM?,How many annual leave days for employees w/ different service lengths?,"An individual may apply for the PMF Program more than once as long as they meet the eligibility criteria, but if they become a finalist, they will forfeit their finalist status if they apply again in the next open announcement.","An individual may apply for the PMF Program more than once as long as he or she meets the eligibility criteria. However, if an individual becomes a finalist and subsequently applies for the Program during the next open announcement, the individual will forfeit his or her status as a finalist.","low is an individual who, within the 
+previous 2 years, completed an ad-
+vanced degree from a qualifying edu-
+cational institution. 
+(c) An individual may apply for the 
+PMF Program if: 
+(1) The individual has obtained an ad-
+vanced degree within the 2-year period 
+preceding the Program announcement 
+described in paragraph (a) of this sec-
+tion, or 
+(2) The individual is still a student 
+attending a qualifying educational in-
+stitution, as defined in paragraph 
+(2)(iii) of the definition of Qualifying 
+educational institution in § 362.102, and 
+he or she expects to complete a quali-
+fying advanced degree by August 31 of 
+the academic year in which the com-
+petition is held. 
+(d) An individual may apply for the 
+PMF Program more than once as long 
+as he or she meets the eligibility cri-
+teria. However, if an individual be-
+comes a finalist and subsequently ap-
+plies for the Program during the next 
+open announcement, the individual 
+will forfeit his or her status as a final-
+ist. 
+(e) OPM will select Fellow finalists 
+based on an OPM evaluation of each 
+VerDate Sep<11>2014 14:38 May 14, 2025 Jkt 265008 PO 00000 Frm 00345 Fmt 8010 Sfmt 8010 Y:\SGML\265008.XXX 265008medwards on DSK11XQN23PROD with CFR",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context directly addresses the number of times an individual can apply to the PMF Program, stating that an individual may apply more than once as long as they meet the eligibility criteria, with the caveat that becoming a finalist and then reapplying would result in forfeiting their finalist status.",2,"This question has limited usefulness due to several issues:
+
+1. Relevance: The question is somewhat vague and unclear. The abbreviation ""PM"" is not defined, which makes it difficult to determine if it relates to a specific federal employment process or position.
+
+2. Practicality: While the intent seems to be about application frequency, the phrasing is grammatically unclear (""How many times can an apply individual...""), which obscures the actual information need.
+
+3. Communication Style: The question is poorly worded, making it challenging to understand the precise information being sought.
+
+4. Information Need: There appears to be a genuine desire to understand application limits, which could be relevant to federal hiring processes. However, the lack of clarity significantly reduces its value.
+
+5. Applicability: Without more context about what ""PM"" represents (possibly ""Position Management"" or another federal employment term), it's difficult to assess the real-world usefulness for federal employees or HR professionals.
+
+The low rating reflects the question's lack of clarity and specificity, which would require significant clarification before it could be meaningfully answered."
+98,98,What conditions must a position offer meet to be considered reasonable?,Criteria for a job's acceptability?,"A position offer must be in writing with an official position description, inform the employee about potential termination of grade or pay retention if declined, provide a position of equal or greater tenure, and be full-time (or match the previous work schedule if the prior position was less than full-time), with a rate of basic pay equal to or greater than the employee's current entitlement.","The offer must be in writing and must include an official position description of the offered position;
+The offer must inform the employee that entitlement to grade or pay retention will terminate if the offer is declined and that the employee may appeal the reasonableness of the offer as provided in § 536.402;
+The offered position must be of equal or greater tenure than the employee's position before the action resulting in the grade or pay retention entitlement;
+The offered position must be full-time, unless the employee's position immediately before the action resulting in entitlement to grade or pay retention was less than full-time, in which case the offered position must have a work schedule providing for no fewer hours of work per week or per pay period than the position held be-","applied to determine whether the grade 
+of the offered position is equal to or 
+greater than the retained grade. 
+(b) For the purpose of determining 
+whether pay retention eligibility or en-
+titlement must be terminated under 
+§ 536.308, the offer of a position is a rea-
+sonable offer if the employee’s rate of 
+basic pay in the position would be 
+equal to or greater than the rate to 
+which the employee is or would be enti-
+tled under the pay retention provisions 
+and if all the conditions in paragraph 
+(c) of this section are met. 
+(c) An offer of a position must meet 
+the following additional conditions to 
+qualify as a reasonable offer: 
+(1) The offer must be in writing and 
+must include an official position de-
+scription of the offered position; 
+(2) The offer must inform the em-
+ployee that entitlement to grade or 
+pay retention will terminate if the 
+offer is declined and that the employee 
+may appeal the reasonableness of the 
+offer as provided in § 536.402; 
+(3) The offered position must be of 
+equal or greater tenure than the em-
+ployee’s position before the action re-
+sulting in the grade or pay retention 
+entitlement; 
+(4) The offered position must be full- 
+time, unless the employee’s position 
+immediately before the action result-
+ing in entitlement to grade or pay re-
+tention was less than full-time, in 
+which case the offered position must 
+have a work schedule providing for no 
+fewer hours of work per week or per 
+pay period than the position held be-",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides a comprehensive list of four specific conditions that a position offer must meet to be considered reasonable, including requirements about the offer being in writing, informing the employee about retention termination, ensuring equal or greater tenure, and maintaining an equivalent or full-time work schedule.",3,"This question has moderate usefulness for federal employment stakeholders. While the topic of position requirements is relevant to Title 5 regulations, the phrasing is somewhat vague and could benefit from more specificity. The question touches on an important aspect of federal employment - defining reasonable position conditions - which would be of interest to HR specialists, managers, and employees considering job opportunities or evaluating current roles.
+
+The usefulness is somewhat limited by the broad and undefined nature of ""reasonable conditions"". Different federal agencies and positions may have varying standards, so the question lacks precise context. However, it does represent a genuine information need related to employment standards and job expectations within the federal workforce.
+
+HR professionals and managers would find some value in understanding the criteria for what constitutes a ""reasonable"" position, as this could impact recruitment, job design, and employee satisfaction. Federal employees might also be interested in understanding their rights and expectations regarding position conditions.
+
+To improve the question's utility, it would be helpful to specify:
+- Which type of position is being referenced
+- What specific aspects of the position are being evaluated (compensation, work environment, duties, etc.)
+- The context of the inquiry (hiring, performance management, job classification)
+
+Despite its limitations, the question addresses a substantive topic within Title 5 regulations concerning employment conditions and standards."
+39,39,Can an employee be forced to take compensatory time instead of overtime pay?,Compensatory time vs. OT pay: legal mandate for employees?,"According to the context, an agency cannot require an employee to be compensated for overtime work with compensatory time off, and an employee cannot be forced, intimidated, or coerced into taking compensatory time instead of overtime pay.","An agency may not require that an employee be compensated for overtime work with an equal amount of compensatory time off from the employee's tour of duty.
+
+An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any other employee for the purpose of interfering with such employee's rights to request or not to request compensatory time off in lieu of payment for overtime hours.","the Fair Labor Standards Act of 1938, 
+as amended, for an equal amount of 
+overtime work, whether or not irreg-
+ular or occasional in nature. 
+(c) An agency may not require that 
+an employee be compensated for over-
+time work with an equal amount of 
+compensatory time off from the em-
+ployee’s tour of duty. An employee 
+may not directly or indirectly intimi-
+date, threaten, or coerce, or attempt to 
+intimidate, threaten, or coerce any 
+other employee for the purpose of 
+interfering with such employee’s rights 
+to request or not to request compen-
+satory time off in lieu of payment for 
+overtime hours. 
+(d) The head of a department may fix 
+a time limit for an employee to request 
+or take compensatory time off and may 
+provide that an employee who fails to 
+take compensatory time earned under 
+paragraph (a) or (b) of this section be-
+fore the time limit fixed shall lose the 
+right to compensatory time off and to 
+overtime pay unless the failure is due 
+to an exigency of the service beyond 
+the employee’s control. 
+[62 FR 28307, May 23, 1997] 
+§ 532.505 Night shift differentials. 
+(a) Employees shall be entitled to re-
+ceive night shift differentials in ac-
+cordance with section 5343 of title 5, 
+United States Code. 
+(b) Absence on holidays. An employee 
+regularly assigned to a shift for which 
+a night shift differential is payable 
+shall be paid the night shift differen-
+tial for a period of excused absence on 
+a legal holiday or other day off from",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,4,"The context directly addresses the question by stating in section (c) that an agency cannot require an employee to be compensated for overtime work with compensatory time off, and further prohibits any intimidation or coercion related to an employee's choice to request or not request compensatory time, which strongly suggests that employees cannot be forced to take compensatory time instead of overtime pay.",4,"This question is highly relevant and practical for federal employees and HR specialists. It directly addresses compensation policies under Title 5, specifically dealing with overtime and compensatory time regulations. The question touches on an important employment rights issue that many federal workers encounter, particularly those in positions eligible for overtime compensation. 
+
+The practicality is strong because compensation options can be complex, and employees often need clarity about their rights regarding overtime pay versus compensatory time. HR professionals and managers must understand the legal constraints around forcing employees to take compensatory time, making this a valuable inquiry for ensuring fair labor practices.
+
+The question is straightforward and gets to the core of a common workplace concern in federal employment. It would help employees understand their compensation options and rights, and assist managers in correctly implementing compensation policies. While the phrasing is simple, it represents a substantive information need that could have significant implications for both employees and employers in the federal workplace.
+
+The applicability is broad, potentially affecting employees across various federal agencies and job classifications who may be subject to overtime and compensatory time regulations. Understanding the nuances of these compensation practices is crucial for maintaining fair and transparent employment practices."
+43,43,What procedures must agency heads establish for part-time career employment?,Agency heads' guidelines for PT career emp?,"Agency heads must establish procedures for part-time career employment that include: reviewing vacant positions for part-time potential, creating criteria for establishing or converting positions, setting annual goals with deadlines, conducting ongoing program evaluation, and implementing public notification processes for vacant part-time positions, while also ensuring communication and coordination among staff responsible for the part-time career employment program.","''(A) the review of positions which, after such positions become vacant, may be filled on a part-time career employment basis (including the establishment of criteria to be used in identifying such positions);
+''(B) procedures and criteria to be used in connection with establishing or converting positions for part-time career employment, subject to the limitations of section 3393 of this title;
+''(C) annual goals for establishing or converting positions for part-time career employment, and a timetable setting forth interim and final deadlines for achieving such goals;
+''(D) a continuing review and evaluation of the part-time career employment program established under such regulations; and
+''(E) procedures for notifying the public of vacant part-time positions in such agency, utilizing facilities and funds otherwise available to such agency for the dissemination of information.
+''(2) The head of each agency shall provide for communication between, and coordination of the activities of, the individuals within such agency whose responsibilities relate to the part-time career employment program established within that agency.","levels, the head of each agency, by regula-
+tion, shall establish and maintain a program 
+for part-time career employment within 
+such agency. Such regulations shall provide 
+for— 
+‘‘(A) the review of positions which, after 
+such positions become vacant, may be filled 
+on a part-time career employment basis (in-
+cluding the establishment of criteria to be 
+used in identifying such positions); 
+‘‘(B) procedures and criteria to be used in 
+connection with establishing or converting 
+positions for part-time career employment, 
+subject to the limitations of section 3393 of 
+this title; 
+‘‘(C) annual goals for establishing or con-
+verting positions for part-time career em-
+ployment, and a timetable setting forth in-
+terim and final deadlines for achieving such 
+goals; 
+‘‘(D) a continuing review and evaluation of 
+the part-time career employment program 
+established under such regulations; and 
+‘‘(E) procedures for notifying the public of 
+vacant part-time positions in such agency, 
+utilizing facilities and funds otherwise avail-
+able to such agency for the dissemination of 
+information. 
+‘‘(2) The head of each agency shall provide 
+for communication between, and coordina-
+tion of the activities of, the individuals with-
+in such agency whose responsibilities relate 
+to the part-time career employment program 
+established within that agency. 
+‘‘(3) Regulations established under para-
+graph (1) of this subsection may provide for 
+such exceptions as may be necessary to carry",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context provides comprehensive details about the exact procedures agency heads must establish for part-time career employment, including reviewing vacant positions, creating criteria for part-time roles, setting annual goals, conducting ongoing program evaluations, and establishing public notification processes.",4,"This question is highly relevant to Title 5 regulations and addresses an important aspect of federal employment policy. It focuses on a specific procedural requirement for agency leadership regarding part-time career employment, which has direct implications for HR specialists, managers, and potential federal employees. The question demonstrates a substantive interest in understanding the administrative framework for implementing part-time career employment policies.
+
+The question's practicality is strong because part-time employment is an increasingly important workforce strategy, especially for agencies seeking flexibility in staffing and attracting diverse talent. Agency heads play a critical role in establishing clear procedures that ensure fair, consistent, and legally compliant part-time employment practices.
+
+This question would be particularly useful for:
+- HR professionals developing employment policies
+- Managers seeking to understand their responsibilities in creating part-time career pathways
+- Job seekers interested in understanding federal part-time employment structures
+- Researchers studying federal employment practices
+
+The technical nature of the question suggests a serious, professional information need rather than a casual inquiry, which further enhances its value. While not addressing a universally applicable topic like pay or leave, it still represents an important nuance in federal employment regulations that can significantly impact workforce management."
+66,66,How long can non-consecutive workdays affect an employee's exemption status?,Impact of non-consecutive workdays on exempt emp. status?,"According to the context, more than 30 non-consecutive calendar days over an extended period do not meet the 30-day test and may not be used to change an employee's exemption status, even if the non-exempt duties are performed intermittently over weeks or months.","Aggregation of more than 30 non-consecutive calendar days over an extended period does not meet the 30-day test and may not be used to change an employee's exemption status.
+For example, if an exempt employee performs nonexempt duties 4 days in one week, 2 days in the following week, and so on over a period of weeks or months, the days of nonexempt work may not be aggregated for the purpose of changing the employee's exemption status.","707 
+Office of Personnel Management § 551.212 
+(c) Aggregation of more than 30 non-
+consecutive calendar days over an ex-
+tended period does not meet the 30-day 
+test and may not be used to change an 
+employee’s exemption status. For ex-
+ample, if an exempt employee performs 
+nonexempt duties 4 days in one week, 2 
+days in the following week, and so on 
+over a period of weeks or months, the 
+days of nonexempt work may not be 
+aggregated for the purpose of changing 
+the employee’s exemption status. 
+(d) Effect on nonexempt employees. (1) 
+A nonexempt employee who must tem-
+porarily perform work or duties that 
+are different from the employee’s pri-
+mary duties remains nonexempt for the 
+entire period of temporary work or du-
+ties unless both of the following condi-
+tions are met: 
+(i) The period of temporary work or 
+duties exceeds 30 consecutive calendar 
+days; and 
+(ii) The employee’s primary duties 
+for the period of temporary work are 
+exempt as defined in this part. 
+(2) If a nonexempt employee becomes 
+exempt under the criteria in paragraph 
+(d)(1) of this section: 
+(i) The employee must be considered 
+exempt for the entire period of tem-
+porary work or duties; and 
+(ii) If the employee received FLSA 
+overtime pay for work performed dur-
+ing the first 30 calendar days of the 
+temporary work or duties, the agency 
+must recalculate the employee’s total 
+pay retroactive to the beginning of 
+that period because the employee is no 
+longer entitled to the FLSA overtime",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly addresses the scenario of non-consecutive workdays, explicitly stating that aggregating more than 30 non-consecutive calendar days over an extended period does not meet the 30-day test and cannot be used to change an employee's exemption status.",4,"This question is quite relevant and practical for federal HR specialists and managers dealing with employee classification and work schedules. The query addresses an important nuance in employment status regulations under Title 5, specifically touching on exemption classifications which have significant implications for pay, overtime, and employee rights. 
+
+The question suggests a complex scenario involving non-consecutive workdays and their potential impact on an employee's exempt or non-exempt status. This indicates a sophisticated understanding that employment classifications aren't always straightforward and can depend on specific work patterns. HR professionals and managers would find this valuable for ensuring proper employee classification, compliance with labor regulations, and accurate compensation practices.
+
+While the question is somewhat technical, it represents a genuine information need that could arise in real federal workplace scenarios. Understanding how work schedules might influence exemption status is crucial for maintaining fair labor practices and avoiding potential compliance issues. The practical applicability is high, as misclassification can lead to significant legal and financial consequences for federal agencies.
+
+The only reason this doesn't receive a perfect 5 rating is that the question could be more specific about the context or type of exemption being discussed. However, it still demonstrates a sophisticated approach to understanding federal employment regulations."
+110,110,Can an employee use annual leave to reach retirement eligibility?,Poss. to use annual leave for retirement eligibility?,"Yes, an employee can use annual leave to reach initial eligibility for immediate retirement under certain circumstances, specifically when being involuntarily separated and seeking to establish retirement or health benefits coverage eligibility.","An agency shall make a temporary exception under this section to retain an employee who is being involuntarily separated under this part, and who elects to use annual leave to remain on the agency's rolls after the effective date the employee would otherwise have been separated by reduction in force, in order to establish initial eligibility for immediate retirement under 5 U.S.C. 8336, 8412, or 8414, and/or to establish initial eligibility under 5 U.S.C. 8905 to continue health benefits coverage into retirement.","279 
+Office of Personnel Management § 351.608 
+subgroup to each group I or II em-
+ployee entitled under 38 U.S.C. 2021 or 
+2024 to retention for, as applicable, 6 
+months or 1 year after restoration, as 
+provided in part 353 of this chapter. 
+(b) Use of annual leave to reach initial 
+eligibility for retirement or continuance of 
+health benefits. (1) An agency shall 
+make a temporary exception under this 
+section to retain an employee who is 
+being involuntarily separated under 
+this part, and who elects to use annual 
+leave to remain on the agency’s rolls 
+after the effective date the employee 
+would otherwise have been separated 
+by reduction in force, in order to estab-
+lish initial eligibility for immediate re-
+tirement under 5 U.S.C. 8336, 8412, or 
+8414, and/or to establish initial eligi-
+bility under 5 U.S.C. 8905 to continue 
+health benefits coverage into retire-
+ment. 
+(2) An agency shall make a tem-
+porary exception under this section to 
+retain an employee who is being invol-
+untarily separated under authority of 
+part 752 of this chapter because of the 
+employee’s decision to decline reloca-
+tion (including transfer of function), 
+and who elects to use annual leave to 
+remain on the agency’s rolls after the 
+effective date the employee would oth-
+erwise have been separated by adverse 
+action, in order to establish initial eli-
+gibility for immediate retirement 
+under 5 U.S.C. 8336, 8412, or 8414, and/or 
+to establish initial eligibility under 5",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly addresses the ability of an employee to use annual leave to reach initial eligibility for immediate retirement, explicitly stating that an agency shall make a temporary exception to retain an employee who elects to use annual leave to remain on the agency's rolls in order to establish initial retirement eligibility under specific U.S.C. sections.",5,"This is an excellent, highly practical question that directly addresses a critical concern for federal employees nearing retirement. The question touches on the intersection of leave policies and retirement eligibility, which is a key consideration for many federal workers planning their career transitions. It has significant relevance for:
+
+1. Employees strategically planning their retirement
+2. HR specialists who must provide guidance on leave and retirement rules
+3. Managers dealing with workforce planning and employee transitions
+
+The question demonstrates a genuine information need about how annual leave can be strategically used in the context of retirement eligibility. It speaks to the nuanced ways federal employees can potentially leverage their benefits to optimize their retirement timing and process. This type of question is precisely the kind of practical, actionable inquiry that can help federal employees make informed decisions about their careers and retirement planning.
+
+The broad applicability across different federal employment contexts, combined with its direct relevance to Title 5 regulations concerning leave and retirement, makes this a highly valuable question for multiple stakeholders in the federal employment ecosystem."
+26,26,How long must an open enrollment period last for leave bank members?,Duration req'd for leave bank mbrs' open enrollment?,An open enrollment period must last at least 30 calendar days.,An open enrollment period shall last at least 30 calendar days.,"ferred between leave banks. 
+§ 630.1004 Application to become a 
+leave contributor and leave bank 
+member. 
+(a) An employee may make voluntary 
+written application to the leave bank 
+board to become a leave contributor. 
+The application shall specify the num-
+ber of hours of annual leave to be con-
+tributed and any other information the 
+leave bank board may reasonably re-
+quire. 
+(b) An employee may request that 
+annual leave be contributed to a speci-
+fied bank member other than the leave 
+contributor’s immediate supervisor. 
+(c) A leave contributor shall become 
+a leave bank member for a particular 
+leave year if he or she submits an ap-
+plication meeting the requirements of 
+this section during an open enrollment 
+period established by the leave bank 
+board under paragraphs (d) and (e) of 
+this section (or where applicable, dur-
+ing an individual enrollment period es-
+tablished under paragraph (f) of this 
+section). 
+(d) The leave bank board shall estab-
+lish at least one open enrollment pe-
+riod for each leave year of leave bank 
+operation. 
+(e) An open enrollment period shall 
+last at least 30 calendar days. The 
+agency shall take appropriate action to 
+inform employees of each open enroll-
+ment period. 
+(f) An employee entering the agency 
+or participating organizational subunit 
+or returning from an extended absence 
+outside an open enrollment period may 
+become a leave bank member for the 
+leave year by submitting an applica-
+tion meeting the requirements of this",./hr_dataset_generation/CFR-2025-title5-vol1.pdf,5,"The context directly states in section (e) that ""An open enrollment period shall last at least 30 calendar days"", which provides a clear and unambiguous answer to the question about the duration of an open enrollment period for leave bank members.",4,"This question is quite useful for federal employees and HR specialists involved in leave management. It addresses a specific procedural detail within Title 5 regulations related to leave banks, which are important mechanisms for employees to share and access additional leave. The question demonstrates a practical concern about the duration of open enrollment periods, which directly impacts employees' ability to participate in leave bank programs. HR professionals would need to know precise regulatory requirements to ensure compliance and fair administration of leave bank policies. While the question is somewhat technical, it represents a genuine information need that could help federal workers understand their leave benefits and help managers administer leave programs correctly. The specificity of the question suggests it comes from someone with a concrete administrative or planning need related to federal employment leave policies."
