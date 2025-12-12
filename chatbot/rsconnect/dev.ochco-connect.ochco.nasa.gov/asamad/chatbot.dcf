@@ -1,0 +1,13 @@
+name: chatbot
+title: chatbot
+username: asamad
+account: asamad
+server: dev.ochco-connect.ochco.nasa.gov
+hostUrl: https://dev.ochco-connect.ochco.nasa.gov/__api__
+appId: 94
+bundleId: 750
+url: https://dev.ochco-connect.ochco.nasa.gov/pa-knowledge-base-bot/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: __pycache__/chatbot_for_integration.cpython-312.pyc

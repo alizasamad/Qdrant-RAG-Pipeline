@@ -32,17 +32,29 @@ The very first model will be OWUI's default RAG settings. This will serve as a b
     2. Results will be stored in the `experiments` folder.
 3. Run `ragas_summary_stats.py`. 
     1. Adjust parameters as needed.
-    2. Output csv file and png plots will be available in the `results` folder.
+    2. Output csv file and png plots will be available in the `results/summary_stats` folder.
 4. Repeat steps 1-3 on all datasets ('google_NQ', 'swa', 't5') for each model.
+5. If `compare` is True, bar chart comparing metrics from all files listed will be created in the `summary_stats` folder. 
 
 ## Step 3: Evaluating Model Performance
 This section will evaluate model performance horizontally (one model's performance between several datasets) and vertically (several models' performances against one dataset / the average of multiple datasets). Horizontal analysis is conducted to determine whether RAG can be specifically optimized for Human Capital data queries. Vertical analysis is conducted to determine which parameters generally enhance RAG performance.
 
 ### Getting Set Up
-1. Navigate to evaluate_models.py
+1. `clean_experiment.py` in the `RAGAS` working directory.
+2. Run script as per instructed. Make sure to include all datasets from the `experiments` folder that you would like to clean & evaluate.
+    1. Note: All datasets must be cleaned before proceeding through any further analysis steps.
+3. You may now proceed to run `evaluate_models.py` as defined below.
+
+### Vertical Analysis:
+1. Run section 1 of `evaluate_models.py` as instructed.
+2. Results will be displayed in terminal & saved as a CSV in `results/evaluate_models`.
 
 ### Horizontal Analysis:
+1. Run section 2 of `evaluate_models.py` as instructed.
+2. Results will be displayed in terminal & saved as a CSV in `results/evaluate_models`.
 
-
+### Final Score:
+1. Run section 3 of `evaluate_models.py` as instructed.
+2. Results will be displayed in terminal & saved as a PNG in `results/evaluate_models`.
 
 
