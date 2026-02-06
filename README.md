@@ -1,5 +1,5 @@
 # Introduction
-The goal of this project is to determine the optimal RAG pipeline. Preliminary research has already been conducted. 
+The goal of this project is to determine the optimal RAG pipeline. Preliminary research has already been conducted. View findings [here](RAG%20Presentation.pdf)
 
 So far, I have developed a proof-of-concept pipeline to demonstrate that it is possible to connect an external RAG pipeline to Open WebUI. It is imperative that the custom RAG pipeline returns citations as OWUI's default RAG system does. This pipeline is still under development; optimization is currently underway. I expect to perform benchmark testing comparing the two models using [RAGAS](https://docs.ragas.io/en/stable/)
 
