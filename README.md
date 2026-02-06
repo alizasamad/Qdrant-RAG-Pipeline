@@ -1,7 +1,7 @@
 # Introduction
 The goal of this project is to determine the optimal RAG pipeline. Preliminary research has already been conducted. 
 
-So far, I have developed a proof-of-concept pipeline to demonstrate that it is possible to connect an external RAG pipeline to Open WebUI. It is imperative that the custom RAG pipeline returns citations as OWUI's default RAG system does. This pipeline is still under development; optimization is currently underway. I expect to perform benchmark testing comparing the two models using [RAGAS](https://docs.ragas.io/en/stable/). 
+So far, I have developed a proof-of-concept pipeline to demonstrate that it is possible to connect an external RAG pipeline to Open WebUI. It is imperative that the custom RAG pipeline returns citations as OWUI's default RAG system does. This pipeline is still under development; optimization is currently underway. I expect to perform benchmark testing comparing the two models using [RAGAS](https://docs.ragas.io/en/stable/)
 
 # Getting Set Up Locally (Docker)
 This setup assumes you already have Ollama running locally. OWUI setup may vary slightly if running Ollama as its own Docker container. 
@@ -66,7 +66,7 @@ You can also compare the responses returned by OWUI's default RAG vs. the custom
 
 ## Getting Started with [RAGAS](https://docs.ragas.io/en/stable/)
 1. Navigate to `RAGAS` working directory. Install all dependencies.
-2. Run [hello_world.py] (https://docs.ragas.io/en/stable/getstarted/experiments_quickstart/?h=experiment#prerequisites)
+2. Run [hello_world.py](https://docs.ragas.io/en/stable/getstarted/experiments_quickstart/?h=experiment#prerequisites)
     1. Note, the `datasets` folder contains a csv of your test dataset constructed during the program.
     2. The `experiments` data set contains a csv file with the results.
 
