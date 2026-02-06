@@ -1,0 +1,8 @@
+,Metric,google_NQ_Mean,t5_Mean,swa_Mean,Test_Type,Statistic,p_value,Effect_Size,Effect_Size_Magnitude,Significant_Difference,Pairwise_Comparisons
+0,rag_latency,0.9627114226443151,1.4444336402864686,,K-W,101.4576,9.306153510824262e-23,4.7361,Large,Yes,google_NQ vs t5: p=0.0000 (google_NQ better); google_NQ vs swa: p=0.0000 (google_NQ better); t5 vs swa: p=0.0224 (swa better)
+1,context_precision_score,1.0389253763379682,0.9034238213514414,,K-W,22.6881,1.1840016043680776e-05,0.9851,Large,Yes,google_NQ vs t5: p=0.0000 (google_NQ better); google_NQ vs swa: p=0.0030 (google_NQ better)
+2,context_recall_score,0.868742939545745,1.2377172625756876,,K-W,21.0653,2.6652232074663237e-05,0.9079,Large,Yes,google_NQ vs t5: p=0.0001 (google_NQ better); google_NQ vs swa: p=0.0005 (google_NQ better)
+3,non_LLM_context_recall_score,0.7869189810375758,1.5018821971468015,,K-W,8.5069,0.014214791206742803,0.3099,Large,Yes,google_NQ vs t5: p=0.0338 (google_NQ better); google_NQ vs swa: p=0.0338 (google_NQ better)
+4,rouge_score,1.003273283156417,1.1150354214681653,,K-W,60.6823,6.652954348530462e-14,2.7944,Large,Yes,google_NQ vs t5: p=0.0000 (t5 better); google_NQ vs swa: p=0.0000 (swa better); t5 vs swa: p=0.0108 (t5 better)
+5,answer_relevancy_score,0.9535912551024347,1.0319488645687205,,K-W,2.8980,0.2348063766806619,0.0428,Small,No,No significant differences
+6,answer_faithfulness_score,0.7565755887800691,1.1303480304053892,,K-W,3.4479,0.1783600395294435,0.0689,Medium,No,No significant differences
