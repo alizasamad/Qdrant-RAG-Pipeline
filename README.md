@@ -1,3 +1,10 @@
+> A custom RAG pipeline integrating Qdrant vector search with Open WebUI, 
+built as an alternative to OWUI's native retrieval system.
+>
+> - Citation-preserving document Q&A with configurable collection targeting
+> - Benchmarked via RAGAS: context precision, recall, answer relevancy, faithfulness, and latency
+> - Fully containerized local deployment with Docker and OWUI Pipelines
+
 # Introduction
 The goal of this project is to determine the optimal RAG pipeline. Preliminary research has already been conducted. View findings [here](RAG%20Presentation.pdf)
 
